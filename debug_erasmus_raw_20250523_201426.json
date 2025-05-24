@@ -1,0 +1,61 @@
+{
+  "test_domain": "www.uva.nl",
+  "cleaned_domain": "www.uva.nl",
+  "input_data": {
+    "maxResults": 10,
+    "searchTerms": [],
+    "debugMode": false,
+    "websiteName": "www.uva.nl",
+    "proxyConfiguration": {
+      "useApifyProxy": true
+    }
+  },
+  "result": {
+    "run_id": "olfRPJyfyTmijRfCZ",
+    "status": "SUCCEEDED",
+    "items_count": 2,
+    "success": true,
+    "items": [
+      {
+        "name": "UvA",
+        "legalName": "UNIVERSITEIT VAN AMSTERDAM",
+        "businessName": "UvA",
+        "country": "NL",
+        "city": "AMSTERDAM",
+        "website": "http://www.uva.nl",
+        "goTolink": "https://webgate.ec.europa.eu/organisation-registration/register/screen/home/organisation/organisationData/10209442",
+        "goTolinkShow": "https://webgate.ec.europa.eu/organisation-registration/register/screen/home/organisation/organisationData/10209442",
+        "websiteShow": "www.uva.nl",
+        "registration": "34370207",
+        "organisationId": "E10209442",
+        "pic": "999985708",
+        "institutionCode": null,
+        "validityType": "42284356",
+        "vat": "NL003240782B01"
+      },
+      {
+        "name": "University of Amsterdam",
+        "legalName": "University of Amsterdam",
+        "businessName": "University of Amsterdam",
+        "country": "NL",
+        "city": "Amsterdam",
+        "website": "http://www.uva.nl",
+        "goTolink": "https://webgate.ec.europa.eu/organisation-registration/register/screen/home/organisation/organisationData/10334335",
+        "goTolinkShow": "https://webgate.ec.europa.eu/organisation-registration/register/screen/home/organisation/organisationData/10334335",
+        "websiteShow": "www.uva.nl",
+        "registration": " 11112222333344445555666677778888",
+        "organisationId": "E10334335",
+        "pic": null,
+        "institutionCode": null,
+        "validityType": "42284353",
+        "vat": null
+      }
+    ],
+    "metadata": {
+      "build_id": "jBfLczZqIihDl9KOx",
+      "compute_units": null,
+      "usage_bytes": null,
+      "platform": null
+    }
+  }
+}

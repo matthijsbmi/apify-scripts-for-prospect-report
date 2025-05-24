@@ -1,0 +1,168 @@
+{
+  "timestamp": "20250524_142557",
+  "total_tests": 5,
+  "successful_tests": 5,
+  "results": [
+    {
+      "test": "Single Company Name",
+      "input": [
+        "walmart"
+      ],
+      "success": true,
+      "companies_found": 1,
+      "companies": [
+        {
+          "name": "Walmart",
+          "full_name": "Walmart Inc",
+          "website": "//corporate.walmart.com",
+          "revenue_text": "$681 Billion",
+          "number_of_employees": "2098500",
+          "industries": [
+            "Department Stores, Shopping Centers & Superstores",
+            "Retail"
+          ],
+          "founding_year": 1962,
+          "stock_symbol": "WMT"
+        }
+      ]
+    },
+    {
+      "test": "Multiple Company Names",
+      "input": [
+        "amazon",
+        "microsoft"
+      ],
+      "success": true,
+      "companies_found": 2,
+      "companies": [
+        {
+          "name": "Amazon",
+          "full_name": "Amazon.com Inc",
+          "website": "//www.amazon.com",
+          "revenue_text": "$650.3 Billion",
+          "number_of_employees": "1556000",
+          "industries": [
+            "Apparel & Accessories Retail",
+            "Retail"
+          ],
+          "founding_year": 1994,
+          "stock_symbol": "AMZN"
+        },
+        {
+          "name": "Microsoft",
+          "full_name": "Microsoft Corp",
+          "website": "//www.microsoft.com",
+          "revenue_text": "$270 Billion",
+          "number_of_employees": "228000",
+          "industries": [
+            "Database & File Management Software",
+            "Software Development & Design",
+            "Software"
+          ],
+          "founding_year": 1975,
+          "stock_symbol": "MSFT"
+        }
+      ]
+    },
+    {
+      "test": "ZoomInfo URL",
+      "input": [
+        "https://www.zoominfo.com/c/walmart-inc/155353090"
+      ],
+      "success": true,
+      "companies_found": 1,
+      "companies": [
+        {
+          "name": "Walmart",
+          "full_name": "Walmart Inc",
+          "website": "//corporate.walmart.com",
+          "revenue_text": "$681 Billion",
+          "number_of_employees": "2098500",
+          "industries": [
+            "Department Stores, Shopping Centers & Superstores",
+            "Retail"
+          ],
+          "founding_year": 1962,
+          "stock_symbol": "WMT"
+        }
+      ]
+    },
+    {
+      "test": "Mixed Input",
+      "input": [
+        "apple",
+        "https://www.zoominfo.com/c/microsoft/24904409"
+      ],
+      "success": true,
+      "companies_found": 2,
+      "companies": [
+        {
+          "name": "Apple",
+          "full_name": "Apple Inc",
+          "website": "//www.apple.com",
+          "revenue_text": "$400.4 Billion",
+          "number_of_employees": "164000",
+          "industries": [
+            "Computer Networking Equipment",
+            "Network Security Hardware & Software",
+            "Computer Equipment & Peripherals",
+            "Manufacturing"
+          ],
+          "founding_year": 1976,
+          "stock_symbol": "AAPL"
+        },
+        {
+          "name": "Microsoft",
+          "full_name": "Microsoft Corp",
+          "website": "//www.microsoft.com",
+          "revenue_text": "$270 Billion",
+          "number_of_employees": "228000",
+          "industries": [
+            "Database & File Management Software",
+            "Software Development & Design",
+            "Software"
+          ],
+          "founding_year": 1975,
+          "stock_symbol": "MSFT"
+        }
+      ]
+    },
+    {
+      "test": "Website URL Conversion",
+      "input": [
+        "https://www.google.com",
+        "tesla.com"
+      ],
+      "success": true,
+      "companies_found": 2,
+      "companies": [
+        {
+          "name": "Google",
+          "full_name": "Google LLC",
+          "website": "//www.google.com",
+          "revenue_text": "$256.7 Billion",
+          "number_of_employees": "182502",
+          "industries": [
+            "Information Collection & Delivery",
+            "Media & Internet"
+          ],
+          "founding_year": 1998,
+          "stock_symbol": ""
+        },
+        {
+          "name": "Tesla",
+          "full_name": "Tesla Inc",
+          "website": "//www.tesla.com",
+          "revenue_text": "$95.7 Billion",
+          "number_of_employees": "125665",
+          "industries": [
+            "Motor Vehicles",
+            "Manufacturing"
+          ],
+          "founding_year": 2003,
+          "stock_symbol": "TSLA"
+        }
+      ]
+    }
+  ]
+}

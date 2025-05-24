@@ -1,0 +1,66 @@
+"""
+Test fixtures for Apify actors.
+
+This module provides mock data and fixtures for testing all actor implementations.
+"""
+
+from .linkedin_data import (
+    LINKEDIN_PROFILE_INPUT,
+    LINKEDIN_PROFILE_OUTPUT,
+    LINKEDIN_POSTS_INPUT,
+    LINKEDIN_POSTS_OUTPUT,
+    LINKEDIN_COMPANY_INPUT,
+    LINKEDIN_COMPANY_OUTPUT,
+    LINKEDIN_ERROR_SCENARIOS
+)
+
+from .social_media_data import (
+    FACEBOOK_POSTS_INPUT,
+    FACEBOOK_POSTS_OUTPUT,
+    TWITTER_POSTS_INPUT,
+    TWITTER_POSTS_OUTPUT,
+    SOCIAL_MEDIA_ERROR_SCENARIOS,
+    PLATFORM_CONFIGS
+)
+
+from .company_data import (
+    CRUNCHBASE_INPUT,
+    CRUNCHBASE_OUTPUT,
+    DNB_INPUT,
+    DNB_OUTPUT,
+    ZOOMINFO_INPUT,
+    ZOOMINFO_OUTPUT,
+    ERASMUS_INPUT,
+    ERASMUS_OUTPUT,
+    COMPANY_DATA_ERROR_SCENARIOS
+)
+
+__all__ = [
+    # LinkedIn fixtures
+    "LINKEDIN_PROFILE_INPUT",
+    "LINKEDIN_PROFILE_OUTPUT",
+    "LINKEDIN_POSTS_INPUT", 
+    "LINKEDIN_POSTS_OUTPUT",
+    "LINKEDIN_COMPANY_INPUT",
+    "LINKEDIN_COMPANY_OUTPUT",
+    "LINKEDIN_ERROR_SCENARIOS",
+    
+    # Social media fixtures
+    "FACEBOOK_POSTS_INPUT",
+    "FACEBOOK_POSTS_OUTPUT",
+    "TWITTER_POSTS_INPUT",
+    "TWITTER_POSTS_OUTPUT",
+    "SOCIAL_MEDIA_ERROR_SCENARIOS",
+    "PLATFORM_CONFIGS",
+    
+    # Company data fixtures
+    "CRUNCHBASE_INPUT",
+    "CRUNCHBASE_OUTPUT",
+    "DNB_INPUT",
+    "DNB_OUTPUT",
+    "ZOOMINFO_INPUT",
+    "ZOOMINFO_OUTPUT",
+    "ERASMUS_INPUT",
+    "ERASMUS_OUTPUT",
+    "COMPANY_DATA_ERROR_SCENARIOS",
+] 

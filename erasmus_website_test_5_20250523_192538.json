@@ -1,0 +1,110 @@
+{
+  "test_name": "Business Models Inc",
+  "raw_input": "https://www.businessmodelsinc.com/",
+  "clean_domain": "www.businessmodelsinc.com",
+  "input": {
+    "debugMode": false,
+    "proxyConfiguration": {
+      "useApifyProxy": true
+    },
+    "websiteName": "www.businessmodelsinc.com",
+    "searchTerms": []
+  },
+  "result": {
+    "run": {
+      "id": "Ch8NznAQLGkAkZczx",
+      "actId": "5ms6D6gKCnJhZN61e",
+      "userId": "FzQcA00biua70jwXV",
+      "startedAt": "2025-05-23T17:25:29.327000+00:00",
+      "finishedAt": "2025-05-23T17:25:37.873000+00:00",
+      "status": "SUCCEEDED",
+      "meta": {
+        "origin": "API",
+        "userAgent": "ApifyClient/1.10.0 (darwin; Python/3.13.3); isAtHome/False"
+      },
+      "stats": {
+        "inputBodyLen": 122,
+        "migrationCount": 0,
+        "rebootCount": 0,
+        "restartCount": 0,
+        "durationMillis": 8433,
+        "resurrectCount": 0,
+        "runTimeSecs": 8.433,
+        "metamorph": 0,
+        "computeUnits": 0.00937,
+        "memAvgBytes": 96297215.10534334,
+        "memMaxBytes": 114683904,
+        "memCurrentBytes": 0,
+        "cpuAvgUsage": 1.5529340974789405,
+        "cpuMaxUsage": 102.2819573400251,
+        "cpuCurrentUsage": 0,
+        "netRxBytes": 49677,
+        "netTxBytes": 19174
+      },
+      "options": {
+        "build": "latest",
+        "timeoutSecs": 300,
+        "memoryMbytes": 4096,
+        "diskMbytes": 8192
+      },
+      "buildId": "jBfLczZqIihDl9KOx",
+      "exitCode": 0,
+      "defaultKeyValueStoreId": "Da68DMcYts1rzOe6i",
+      "defaultDatasetId": "pgYcoZcyOaW9VN3f7",
+      "defaultRequestQueueId": "gcNhGQeukDLIreTDT",
+      "generalAccess": "FOLLOW_USER_SETTING",
+      "buildNumber": "0.0.10",
+      "containerUrl": "https://45mafrmdusbk.runs.apify.net",
+      "usage": {
+        "ACTOR_COMPUTE_UNITS": 0.00937,
+        "DATASET_READS": 0,
+        "DATASET_WRITES": 0,
+        "KEY_VALUE_STORE_READS": 1,
+        "KEY_VALUE_STORE_WRITES": 2,
+        "KEY_VALUE_STORE_LISTS": 0,
+        "REQUEST_QUEUE_READS": 4,
+        "REQUEST_QUEUE_WRITES": 1,
+        "DATA_TRANSFER_INTERNAL_GBYTES": 1.463666558265686e-05,
+        "DATA_TRANSFER_EXTERNAL_GBYTES": 1.4761462807655334e-05,
+        "PROXY_RESIDENTIAL_TRANSFER_GBYTES": 0,
+        "PROXY_SERPS": 0
+      },
+      "usageTotalUsd": 0.0038926841258406634,
+      "usageUsd": {
+        "ACTOR_COMPUTE_UNITS": 0.003748,
+        "DATASET_READS": 0,
+        "DATASET_WRITES": 0,
+        "KEY_VALUE_STORE_READS": 5e-06,
+        "KEY_VALUE_STORE_WRITES": 0.0001,
+        "KEY_VALUE_STORE_LISTS": 0,
+        "REQUEST_QUEUE_READS": 1.6e-05,
+        "REQUEST_QUEUE_WRITES": 2e-05,
+        "DATA_TRANSFER_INTERNAL_GBYTES": 7.318332791328431e-07,
+        "DATA_TRANSFER_EXTERNAL_GBYTES": 2.952292561531067e-06,
+        "PROXY_RESIDENTIAL_TRANSFER_GBYTES": 0,
+        "PROXY_SERPS": 0
+      },
+      "consoleUrl": "https://console.apify.com/view/runs/Ch8NznAQLGkAkZczx"
+    },
+    "items": [
+      {
+        "name": "BMINC.",
+        "legalName": "BUSINESS MODELS INC BV",
+        "businessName": "BMINC.",
+        "country": "NL",
+        "city": "AMSTERDAM",
+        "website": "http://www.businessmodelsinc.com",
+        "goTolink": "https://webgate.ec.europa.eu/organisation-registration/register/screen/home/organisation/organisationData/10056549",
+        "goTolinkShow": "https://webgate.ec.europa.eu/organisation-registration/register/screen/home/organisation/organisationData/10056549",
+        "websiteShow": "www.businessmodelsinc.com",
+        "registration": "50321323",
+        "organisationId": "E10056549",
+        "pic": "938220085",
+        "institutionCode": null,
+        "validityType": "42284356",
+        "vat": "NL822674701B01"
+      }
+    ],
+    "success": true
+  }
+}

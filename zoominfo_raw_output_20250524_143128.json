@@ -1,0 +1,226 @@
+[
+  {
+    "url": "https://www.zoominfo.com/c/walmart-inc/155353090",
+    "id": "155353090",
+    "name": "Walmart",
+    "full_name": "Walmart Inc",
+    "description": "Walmart Inc. engages in the operation of retail, wholesale, other units, and eCommerce worldwide. The company operates through three segments: Walmart U.S., Walmart International, and Sam's Club. It operates supercenters, supermarkets, hypermarkets, warehouse clubs, cash and carry stores, and discount stores under Walmart and Walmart Neighborhood Market brands; membership-only warehouse clubs; ecommerce websites, such as walmart.com.mx, walmart.ca, flipkart.com, PhonePe and other sites; and mobile commerce applications. The company offers grocery and consumables, including dairy, meat, bakery, deli, produce, dry, chilled or frozen packaged foods, alcoholic and nonalcoholic beverages, floral, snack foods, candy, other grocery items, health and beauty aids, paper goods, laundry and home care, baby care, pet supplies, and other consumable items; fuel, tobacco and other categories. It is also involved in the provision of health and wellness products covering pharmacy, optical and hearing services, and over-the-counter drugs and other medical products; and home and apparel including home improvement, outdoor living, gardening, furniture, apparel, jewelry, tools and power equipment, housewares, toys, seasonal items, mattresses and tire and battery centers. In addition, the company offers consumer electronics and accessories, software, video games, office supplies, appliances, and third-party gift cards. Further, it operates digital payment platforms; and offers financial services and related products, including money transfers, bill payments, money orders, check cashing, prepaid access, co-branded credit cards, installment lending, and earned wage access. Additionally, the company markets lines of merchandise under private brands, including Allswell, Athletic Works, Equate, and Free Assembly. The company was formerly known as Wal-Mart Stores, Inc. and changed its name to Walmart Inc. in February 2018. Walmart Inc. was founded in 1945 and is based in Bentonville, Arkansas.",
+    "revenue": 680985000,
+    "revenue_currency": "$",
+    "revenue_text": "$681 Billion",
+    "website": "//corporate.walmart.com",
+    "stock_symbol": "WMT",
+    "address": {
+      "street": "702 SW 8th St",
+      "city": "Bentonville",
+      "state": "Arkansas",
+      "country": "United States",
+      "zip": "72716"
+    },
+    "number_of_employees": "2098500",
+    "phone_number": "(479) 273-4000",
+    "founding_year": 1962,
+    "industries": [
+      "Department Stores, Shopping Centers & Superstores",
+      "Retail"
+    ],
+    "similar_company_urls": [
+      {
+        "id": "1475361",
+        "name": "Amazon",
+        "logo": "https://res.cloudinary.com/zoominfo-com/image/upload/w_28,h_28,c_fit/amazon.com",
+        "founding_year": "1994",
+        "total_funding_amount": "48000",
+        "is_public": "Public",
+        "url": "amazon.com",
+        "number_of_employees": 1556000,
+        "full_name": "Amazon.com Inc",
+        "revenue": "637959013",
+        "is_competitor": true,
+        "ceo": {
+          "title": "President, Amazon Web Services",
+          "picture": "https://storage.zoominfo.com/4176329007",
+          "first_name": "Deontre",
+          "last_name": "Thomas",
+          "full_name": "Deontre Thomas",
+          "person_url": "/p/Deontre-Thomas/4176329007"
+        }
+      },
+      {
+        "id": "10256729",
+        "name": "CVS Health",
+        "logo": "https://res.cloudinary.com/zoominfo-com/image/upload/w_28,h_28,c_fit/cvshealth.com",
+        "founding_year": "1963",
+        "total_funding_amount": "0",
+        "is_public": "Public",
+        "url": "cvshealth.com",
+        "number_of_employees": 219000,
+        "full_name": "CVS Health Corp",
+        "revenue": "372809000",
+        "is_competitor": true,
+        "ceo": {
+          "title": "President & Chief Executive Officer",
+          "picture": "https://dozi-prd-research-edit-api-1.appspot.com/cera-app/assets/images/contact_placeholder.png",
+          "first_name": "David",
+          "last_name": "Joyner",
+          "full_name": "David Joyner",
+          "person_url": "/p/David-Joyner/2944966114"
+        }
+      },
+      {
+        "id": "345283492",
+        "name": "Costco Wholesale",
+        "logo": "https://res.cloudinary.com/zoominfo-com/image/upload/w_28,h_28,c_fit/costco.com",
+        "founding_year": "1976",
+        "total_funding_amount": "35200",
+        "is_public": "Public",
+        "url": "costco.com",
+        "number_of_employees": 333000,
+        "full_name": "Costco Wholesale Corp",
+        "revenue": "264085996",
+        "is_competitor": true,
+        "ceo": {
+          "title": "Chief Executive Officer, President & Director",
+          "picture": "https://s201.q4cdn.com/287523651/files/images/board/10/31/Ron-Vachris.png",
+          "first_name": "Ron",
+          "last_name": "Vachris",
+          "full_name": "Ron Vachris",
+          "person_url": "/p/Ron-Vachris/460755744"
+        }
+      },
+      {
+        "id": "41320983",
+        "name": "Walgreens",
+        "logo": "https://res.cloudinary.com/zoominfo-com/image/upload/w_28,h_28,c_fit/walgreens.com",
+        "founding_year": "1901",
+        "total_funding_amount": "0",
+        "is_public": "Private",
+        "url": "walgreens.com",
+        "number_of_employees": 325000,
+        "full_name": "Walgreens Co",
+        "revenue": "144600000",
+        "is_competitor": true,
+        "ceo": {
+          "title": "Chief Marketing & Customer Experience Officer",
+          "picture": "https://storage.zoominfo.com/5454643782",
+          "first_name": "Sebastian",
+          "last_name": "Peterson",
+          "full_name": "Sebastian Peterson",
+          "person_url": "/p/Sebastian-Peterson/5454643782"
+        }
+      },
+      {
+        "id": "37536530",
+        "name": "Target",
+        "logo": "https://res.cloudinary.com/zoominfo-com/image/upload/w_28,h_28,c_fit/corporate.target.com",
+        "founding_year": "1902",
+        "total_funding_amount": "15300",
+        "is_public": "Public",
+        "url": "corporate.target.com",
+        "number_of_employees": 440000,
+        "full_name": "Target Corp",
+        "revenue": "106566000",
+        "is_competitor": true,
+        "ceo": {
+          "title": "Chief Executive Officer & Chairman",
+          "picture": "https://corporate.target.com/getmedia/10dc7f47-7539-4d0a-be4d-17b6ee1a0ae8/Brian-Cornell-Target-2024-1x1.jpg?width=460",
+          "first_name": "Brian",
+          "last_name": "Cornell",
+          "full_name": "Brian Cornell",
+          "person_url": "/p/Brian-Cornell/10658771457"
+        }
+      },
+      {
+        "id": "29330408",
+        "name": "Dollar General",
+        "logo": "https://res.cloudinary.com/zoominfo-com/image/upload/w_28,h_28,c_fit/dollargeneral.com",
+        "founding_year": "1939",
+        "total_funding_amount": "716100",
+        "is_public": "Public",
+        "url": "dollargeneral.com",
+        "number_of_employees": 194200,
+        "full_name": "Dollar General Corp",
+        "revenue": "40612307",
+        "is_competitor": true,
+        "ceo": {
+          "title": "Chief Marketing Officer",
+          "picture": "https://dozi-prd-research-edit-api-1.appspot.com/cera-app/assets/images/contact_placeholder.png",
+          "first_name": "Tony",
+          "last_name": "Rogers",
+          "full_name": "Tony Rogers",
+          "person_url": "/p/Tony-Rogers/1295208059"
+        }
+      }
+    ],
+    "fax": "(479) 277-1830",
+    "fundings": {
+      "data": [
+        {
+          "date": "Sep 30, 2024",
+          "amount_value": "155000",
+          "amount_label": "$155M",
+          "round": "Debt",
+          "investors_label": [
+            "Ready Capital"
+          ]
+        },
+        {
+          "date": "Mar 01, 1972",
+          "amount_value": "3000",
+          "amount_label": "<$5M",
+          "round": "Stock Issuance/Offering",
+          "investors_label": [
+            null
+          ]
+        },
+        {
+          "date": "May 01, 1970",
+          "amount_value": "2500",
+          "amount_label": "<$5M",
+          "round": "Debt",
+          "investors_label": [
+            "Mass Mutual"
+          ]
+        },
+        {
+          "date": "Jan 05, 1961",
+          "amount_value": "350",
+          "amount_label": "<$5M",
+          "round": "Debt",
+          "investors_label": [
+            "Arvest Bank Group"
+          ]
+        },
+        {
+          "date": "Feb 02, 1960",
+          "amount_value": "1000",
+          "amount_label": "<$5M",
+          "round": "Debt",
+          "investors_label": [
+            "First National Bank of Commerce"
+          ]
+        }
+      ],
+      "totals": {
+        "total_amount": "$161.8M",
+        "last_funding_amount": "$155M",
+        "num_of_rounds": 5
+      }
+    },
+    "social_network_urls": [
+      {
+        "social_network_type": "LINKED_IN",
+        "social_network_url": "http://www.linkedin.com/company/walmart"
+      },
+      {
+        "social_network_type": "TWITTER",
+        "social_network_url": "http://www.twitter.com/walmart"
+      },
+      {
+        "social_network_type": "FACEBOOK",
+        "social_network_url": "http://www.facebook.com/walmart"
+      }
+    ],
+    "from_url_or_company_name": "walmart"
+  }
+]

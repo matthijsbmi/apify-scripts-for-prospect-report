@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-05-23T18:16:19.459939",
+  "input": {
+    "profileUrls": [
+      "https://www.linkedin.com/in/williamhgates/"
+    ],
+    "includeSkills": true,
+    "includeEducation": true,
+    "includeExperience": true,
+    "includeRecommendations": false,
+    "includeCourses": false
+  },
+  "cost_estimate": {
+    "estimated_cost": 0.002,
+    "compute_units": 0.05,
+    "cost_breakdown": {
+      "base_cost": 0.002,
+      "profiles": 1,
+      "cost_per_profile": 0.002
+    }
+  },
+  "result": {
+    "run": {
+      "id": "error",
+      "status": "FAILED"
+    },
+    "items": [],
+    "success": false,
+    "error": "unsupported operand type(s) for +=: 'decimal.Decimal' and 'float'"
+  },
+  "summary": {
+    "success": false,
+    "error": "unsupported operand type(s) for +=: 'decimal.Decimal' and 'float'"
+  }
+}

@@ -1,0 +1,2001 @@
+{
+  "timestamp": "2025-05-23T18:29:10.429696",
+  "input": {
+    "profileUrls": [
+      "https://www.linkedin.com/in/williamhgates/"
+    ],
+    "maxPostsPerProfile": 10,
+    "includeComments": false
+  },
+  "cost_estimate": {
+    "estimated_cost": 0.02,
+    "compute_units": 1.0,
+    "cost_breakdown": {
+      "base_cost_per_post": 0.002,
+      "profiles": 1,
+      "max_posts_per_profile": 10,
+      "expected_posts": 10
+    }
+  },
+  "result": {
+    "run": {
+      "id": "b16M86PKWtAUM1GW1",
+      "actId": "A3cAPGpwBEG8RJwse",
+      "userId": "FzQcA00biua70jwXV",
+      "startedAt": "2025-05-23T16:29:00.927000+00:00",
+      "finishedAt": "2025-05-23T16:29:09.081000+00:00",
+      "status": "SUCCEEDED",
+      "meta": {
+        "origin": "API",
+        "userAgent": "ApifyClient/1.10.0 (darwin; Python/3.13.3); isAtHome/False"
+      },
+      "stats": {
+        "inputBodyLen": 110,
+        "migrationCount": 0,
+        "rebootCount": 0,
+        "restartCount": 0,
+        "durationMillis": 7985,
+        "resurrectCount": 0,
+        "runTimeSecs": 7.985,
+        "metamorph": 0,
+        "computeUnits": 0.0005545138888888889,
+        "memAvgBytes": 25855506.62983994,
+        "memMaxBytes": 46583808,
+        "memCurrentBytes": 0,
+        "cpuAvgUsage": 2.34070250766895,
+        "cpuMaxUsage": 83.20284662576687,
+        "cpuCurrentUsage": 0,
+        "netRxBytes": 80543,
+        "netTxBytes": 32259
+      },
+      "options": {
+        "build": "latest",
+        "timeoutSecs": 600,
+        "memoryMbytes": 256,
+        "maxItems": 19443,
+        "diskMbytes": 512
+      },
+      "buildId": "iBPf8qy7EdCVm82UB",
+      "exitCode": 0,
+      "defaultKeyValueStoreId": "GB3plLu024wNAhVb8",
+      "defaultDatasetId": "hogfrxoQoz4QDX3ca",
+      "defaultRequestQueueId": "NIfcfHnzOESljSlSa",
+      "pricingInfo": {
+        "pricingModel": "PRICE_PER_DATASET_ITEM",
+        "pricePerUnitUsd": 0.002,
+        "unitName": "post",
+        "createdAt": "2025-04-24T23:14:20.438000+00:00",
+        "startedAt": "2025-04-24T23:14:20.438000+00:00",
+        "apifyMarginPercentage": 0.2,
+        "notifiedAboutChangeAt": "2025-04-24T23:35:20.198000+00:00"
+      },
+      "generalAccess": "FOLLOW_USER_SETTING",
+      "buildNumber": "0.0.25",
+      "containerUrl": "https://kwtzf9l3d7ww.runs.apify.net",
+      "consoleUrl": "https://console.apify.com/view/runs/b16M86PKWtAUM1GW1"
+    },
+    "items": [
+      {
+        "post": {
+          "id": "7331500810427609088",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_every-year-23-million-newborns-dont-survive-activity-7331500810427609088-dHQz",
+          "content": "Every year, 2.3 million newborns don’t survive their first 28 days. But simple, low-cost interventions that identify risks early, improve prenatal care, and help mothers survive delivery can give more of these babies a fighting chance.",
+          "postedAt": {
+            "timestamp": 1747966005904,
+            "date": "2025-05-23T02:06:45.904Z",
+            "postedAgoShort": "14h",
+            "postedAgoText": "14 hours ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "What it takes to take a breath",
+            "subtitle": "Bill Gates",
+            "link": "https://www.linkedin.com/pulse/what-takes-take-breath-bill-gates-spclc?trackingId=VjL0SxYA35for1Q7LQoOkQ%3D%3D",
+            "linkLabel": "Open article: What it takes to take a breath by Bill Gates • 6 min read",
+            "description": "In a rural health clinic, a baby tries to take her first breath.But her lungs aren’t ready. Because she was born too early, they haven’t developed the",
+            "image": {
+              "url": "https://media.licdn.com/dms/image/v2/D4D12AQF0UjZin8cHIw/article-cover_image-shrink_720_1280/B4DZb6R6KOHsAI-/0/1747955721254?e=1753315200&v=beta&t=pWbkiHRUlvneMU9Zo6-9XSJDRYPXmKRyrls5iwe7IIw",
+              "width": 1114,
+              "height": 627,
+              "expiresAt": 1753315200000
+            }
+          },
+          "newsletterUrl": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121",
+          "newsletterTitle": "Gates Notes"
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 3657,
+          "comments": 663,
+          "shares": 87,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 2978
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 291
+            },
+            {
+              "type": "EMPATHY",
+              "count": 284
+            },
+            {
+              "type": "PRAISE",
+              "count": 52
+            },
+            {
+              "type": "INTEREST",
+              "count": 48
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 4
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_every-year-23-million-newborns-dont-survive-activity-7331500810427609088-dHQz?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7331387383810076677",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_5-memoirs-that-inspired-my-own-source-code-activity-7331387383810076677-AmS0",
+          "content": "Writing Source Code made me think hard about what makes a great memoir, so I turned to my favorites. From Kay Graham’s journey as a trailblazer in journalism to Trevor Noah’s reflections on feeling out of place growing up, here are some of the memoirs that inspire me.",
+          "postedAt": {
+            "timestamp": 1747938962891,
+            "date": "2025-05-22T18:36:02.891Z",
+            "postedAgoShort": "21h",
+            "postedAgoText": "21 hours ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "5 memoirs that inspired my own, Source Code | Bill Gates",
+            "subtitle": "gatesnotes.com",
+            "link": "https://gatesnot.es/4ktQK3E",
+            "linkLabel": "Open article: 5 memoirs that inspired my own, Source Code | Bill Gates by gatesnot.es",
+            "description": null,
+            "image": {
+              "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQFX6lxsS68v2Q/articleshare-shrink_1280_800/B56Zb5LFqBG4AQ-/0/1747937156312?e=1748624400&v=beta&t=0q5e_nHGIyjAxutnp1x3L4Fz4mMLHph5ZW_BIWfYIJQ",
+              "width": 1200,
+              "height": 630,
+              "expiresAt": 1748624400000
+            }
+          },
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 941,
+          "comments": 230,
+          "shares": 45,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 827
+            },
+            {
+              "type": "EMPATHY",
+              "count": 60
+            },
+            {
+              "type": "INTEREST",
+              "count": 25
+            },
+            {
+              "type": "PRAISE",
+              "count": 14
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 13
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 2
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_5-memoirs-that-inspired-my-own-source-code-activity-7331387383810076677-AmS0?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7330708108664549377",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_how-to-cut-neonatal-mortality-rates-bill-activity-7330708108664549377-8ci_",
+          "content": "For millions of babies born too soon, survival depends on access to basic care. I’ve seen how innovations like synthetic surfactant and portable ultrasounds can turn fear into celebration. Now we need to get them to the places that need them most.",
+          "postedAt": {
+            "timestamp": 1747777011076,
+            "date": "2025-05-20T21:36:51.076Z",
+            "postedAgoShort": "2d",
+            "postedAgoText": "2 days ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "How to cut neonatal mortality rates | Bill Gates",
+            "subtitle": "gatesnotes.com",
+            "link": "https://gatesnot.es/43G1XIQ",
+            "linkLabel": "Open article: How to cut neonatal mortality rates | Bill Gates by gatesnot.es",
+            "description": null,
+            "image": {
+              "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHGzaGU1gcp9A/articleshare-shrink_1280_800/B4DZbVWWFNH8AY-/0/1747336127186?e=1748624400&v=beta&t=o4Uk0r6kNQxzNYFX7BAYT3TOWT_2hrLeGB3hCXCGW3E",
+              "width": 1200,
+              "height": 630,
+              "expiresAt": 1748624400000
+            }
+          },
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 1776,
+          "comments": 372,
+          "shares": 89,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 1500
+            },
+            {
+              "type": "EMPATHY",
+              "count": 123
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 103
+            },
+            {
+              "type": "PRAISE",
+              "count": 28
+            },
+            {
+              "type": "INTEREST",
+              "count": 18
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 4
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_how-to-cut-neonatal-mortality-rates-bill-activity-7330708108664549377-8ci_?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7330661376358600704",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_fda-oks-first-blood-test-that-can-help-diagnose-activity-7330661376358600704-p_Vp",
+          "content": "This is an incredible step forward for Alzheimer’s diagnostics. When it comes to this disease, early detection makes all the difference. For patients and their families, these tests mean more time and more options—and helping advance work like this is why the Alzheimer's Drug Discovery Foundation’s Diagnostics Accelerator exists.",
+          "postedAt": {
+            "timestamp": 1747765869226,
+            "date": "2025-05-20T18:31:09.226Z",
+            "postedAgoShort": "2d",
+            "postedAgoText": "2 days ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "FDA OKs first blood test that can help diagnose Alzheimer's disease",
+            "subtitle": "apnews.com",
+            "link": "https://b-gat.es/4jaHGjm",
+            "linkLabel": "Open article: FDA OKs first blood test that can help diagnose Alzheimer's disease by b-gat.es",
+            "description": null,
+            "image": {
+              "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGBq2D8XRFFnw/articleshare-shrink_1280_800/B4DZbcma.KIAAQ-/0/1747457781966?e=1748624400&v=beta&t=FljJbdzTJokq4leALzlQz2Z26QC9a9qrPkRCWrfprqQ",
+              "width": 1280,
+              "height": 720,
+              "expiresAt": 1748624400000
+            }
+          },
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 2590,
+          "comments": 314,
+          "shares": 182,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 2121
+            },
+            {
+              "type": "PRAISE",
+              "count": 210
+            },
+            {
+              "type": "EMPATHY",
+              "count": 169
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 53
+            },
+            {
+              "type": "INTEREST",
+              "count": 36
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 1
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_fda-oks-first-blood-test-that-can-help-diagnose-activity-7330661376358600704-p_Vp?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7329982247837532160",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_for-millions-of-premature-babies-the-difference-activity-7329982247837532160-Sqe0",
+          "content": "For millions of premature babies, the difference between life and death depends on access to life-saving care. We can change the trajectory of neonatal deaths everywhere with this simple nebulizer.",
+          "postedAt": {
+            "timestamp": 1747603952369,
+            "date": "2025-05-18T21:32:32.369Z",
+            "postedAgoShort": "4d",
+            "postedAgoText": "4 days ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 2740,
+          "comments": 363,
+          "shares": 199,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 2331
+            },
+            {
+              "type": "EMPATHY",
+              "count": 192
+            },
+            {
+              "type": "PRAISE",
+              "count": 106
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 82
+            },
+            {
+              "type": "INTEREST",
+              "count": 26
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 3
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_for-millions-of-premature-babies-the-difference-activity-7329982247837532160-Sqe0?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7329608147529019392",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_the-gates-foundations-biggest-breakthrough-activity-7329608147529019392-ClX_",
+          "content": "You can’t solve a problem you don’t understand—which is why we set out to understand the three biggest drivers of child mortality. The answers have already changed the future for millions of children:",
+          "postedAt": {
+            "timestamp": 1747514759905,
+            "date": "2025-05-17T20:45:59.905Z",
+            "postedAgoShort": "5d",
+            "postedAgoText": "5 days ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "The Gates Foundation's biggest breakthrough | Bill Gates",
+            "subtitle": "gatesnotes.com",
+            "link": "https://gatesnot.es/4kmqmbU",
+            "linkLabel": "Open article: The Gates Foundation's biggest breakthrough | Bill Gates by gatesnot.es",
+            "description": null,
+            "image": {
+              "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHoQrMUwNC-FA/articleshare-shrink_1280_800/B4DZbVUsEYGUAU-/0/1747335693104?e=1748624400&v=beta&t=u6BATN7nkUtUWjlH6EURdGtifpHbS5daFDSVxNoODZo",
+              "width": 1200,
+              "height": 630,
+              "expiresAt": 1748624400000
+            }
+          },
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 3045,
+          "comments": 568,
+          "shares": 138,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 2647
+            },
+            {
+              "type": "EMPATHY",
+              "count": 155
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 139
+            },
+            {
+              "type": "PRAISE",
+              "count": 56
+            },
+            {
+              "type": "INTEREST",
+              "count": 39
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 9
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_the-gates-foundations-biggest-breakthrough-activity-7329608147529019392-ClX_?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7329207003942125568",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_how-better-data-helped-us-cut-child-mortality-activity-7329207003942125568-_gfJ",
+          "content": "The leading causes of childhood death reveal a stark truth: Many could be prevented, and children in poor countries die from them far more often than those in wealthy ones. We have the tools to save lives—and by helping them reach the right children at the right time, the world has cut global child deaths by more than half—from 12 million in 1990 to 4.6 million in 2021. It’s extraordinary progress, but the work isn’t over: https://lnkd.in/gC4pEPsW",
+          "postedAt": {
+            "timestamp": 1747419119821,
+            "date": "2025-05-16T18:11:59.821Z",
+            "postedAgoShort": "6d",
+            "postedAgoText": "6 days ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 2961,
+          "comments": 332,
+          "shares": 157,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 2520
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 180
+            },
+            {
+              "type": "EMPATHY",
+              "count": 158
+            },
+            {
+              "type": "PRAISE",
+              "count": 55
+            },
+            {
+              "type": "INTEREST",
+              "count": 45
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 3
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_how-better-data-helped-us-cut-child-mortality-activity-7329207003942125568-_gfJ?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7328888308271382529",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_even-as-the-number-of-children-born-every-activity-7328888308271382529-dari",
+          "content": "Even as the number of children born every year has gone up, the number of childhood deaths has fallen by more than half—from 11.3 million in 1990 to 4.5 million in 2022. Playing a part in making that happen is the best job I’ve ever had, and the most meaningful work I’ve ever done.",
+          "postedAt": {
+            "timestamp": 1747343136852,
+            "date": "2025-05-15T21:05:36.852Z",
+            "postedAgoShort": "1w",
+            "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "The breakthrough that transformed the Gates Foundation",
+            "subtitle": "Bill Gates",
+            "link": "https://www.linkedin.com/pulse/breakthrough-transformed-gates-foundation-bill-gates-axdac?trackingId=OKfLg%2B27a4lUqGCHDLAFrQ%3D%3D",
+            "linkLabel": "Open article: The breakthrough that transformed the Gates Foundation by Bill Gates • 6 min read",
+            "description": "We started the Gates Foundation 25 years ago to save and improve children’s lives. But no one can solve a problem they don’t fully understand. And bac",
+            "image": {
+              "url": "https://media.licdn.com/dms/image/v2/D5612AQECY1aYbcjf5A/article-cover_image-shrink_720_1280/B56ZbVnWQrHgAI-/0/1747340584282?e=1753315200&v=beta&t=b530MGVFGRFGFos-oGIxDY_gbhMyS6J1AaqdR4Dok5o",
+              "width": 1114,
+              "height": 627,
+              "expiresAt": 1753315200000
+            }
+          },
+          "newsletterUrl": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121",
+          "newsletterTitle": "Gates Notes"
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 5442,
+          "comments": 862,
+          "shares": 120,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 4467
+            },
+            {
+              "type": "EMPATHY",
+              "count": 372
+            },
+            {
+              "type": "PRAISE",
+              "count": 368
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 165
+            },
+            {
+              "type": "INTEREST",
+              "count": 59
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 11
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_even-as-the-number-of-children-born-every-activity-7328888308271382529-dari?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7328838056403173380",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_the-foundations-annual-employee-meeting-activity-7328838056403173380-xPeZ",
+          "content": "The foundation’s annual employee meeting is always one of my favorite days of the year. This was my first time seeing everyone since I announced that I will give away virtually all of my wealth through the Gates Foundation over the next 20 years to save and improve lives around the world. ​\n\nI feel confident putting the remainder of my wealth into the foundation, because I know how brilliant and dedicated the people responsible for using that money are—and it was wonderful getting a chance to celebrate them. https://lnkd.in/gRVnA-vx",
+          "postedAt": {
+            "timestamp": 1747331155873,
+            "date": "2025-05-15T17:45:55.873Z",
+            "postedAgoShort": "1w",
+            "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 7735,
+          "comments": 498,
+          "shares": 260,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 6348
+            },
+            {
+              "type": "PRAISE",
+              "count": 627
+            },
+            {
+              "type": "EMPATHY",
+              "count": 623
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 105
+            },
+            {
+              "type": "INTEREST",
+              "count": 27
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 5
+            }
+          ]
+        },
+        "media": {
+          "images": [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQFRGY-V1VpxSw/feedshare-shrink_2048_1536/B56ZbVDX9tH4Ao-/0/1747331154434?e=1750896000&v=beta&t=bbopgdKv1UZxs7Hbl4TJckcfAluf810qDtjaVjq1mkk",
+              "width": 2048,
+              "height": 1366,
+              "expiresAt": 1750896000000
+            }
+          ]
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_the-foundations-annual-employee-meeting-activity-7328838056403173380-xPeZ?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7326723823125303298",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_its-been-a-remarkable-25-yearsbut-our-work-activity-7326723823125303298-BAtX",
+          "content": "It’s been a remarkable 25 years—but our work isn’t done yet.",
+          "postedAt": {
+            "timestamp": 1746827083379,
+            "date": "2025-05-09T21:44:43.379Z",
+            "postedAgoShort": "1w",
+            "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 3291,
+          "comments": 748,
+          "shares": 204,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 2828
+            },
+            {
+              "type": "EMPATHY",
+              "count": 215
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 130
+            },
+            {
+              "type": "PRAISE",
+              "count": 89
+            },
+            {
+              "type": "INTEREST",
+              "count": 21
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 8
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_its-been-a-remarkable-25-yearsbut-our-work-activity-7326723823125303298-BAtX?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7326660324483289089",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_today-marks-the-beginning-of-the-last-chapter-activity-7326660324483289089-9xyP",
+          "content": "Today marks the beginning of the last chapter of my career. I have come a long way since I was just a kid starting a software company with my friend from middle school, and I look forward to giving away virtually all of the wealth I earned through Microsoft. The Gates Foundation will use these resources over the next 20 years to double down on our efforts to save and improve lives around the world.",
+          "postedAt": {
+            "timestamp": 1746811944123,
+            "date": "2025-05-09T17:32:24.123Z",
+            "postedAgoShort": "1w",
+            "postedAgoText": "1 week ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "The last chapter of my career",
+            "subtitle": "Bill Gates",
+            "link": "https://www.linkedin.com/pulse/last-chapter-my-career-bill-gates-tvlnc?trackingId=DQfdHMHJSTyuWrZqJiIpZw%3D%3D",
+            "linkLabel": "Open article: The last chapter of my career by Bill Gates • 3 min read",
+            "description": "Next week, I will participate in the foundation’s annual employee meeting, which is always one of my favorite days of the year. This will be my first ",
+            "image": {
+              "url": "https://media.licdn.com/dms/image/v2/D4E12AQH2hZZjc4b7IQ/article-cover_image-shrink_720_1280/B4EZa17rcaHIAM-/0/1746809048065?e=1753315200&v=beta&t=zZO80uPehkxOdKZqF9gSGrCSbg9N6R0Kv39WDnSJ3Wo",
+              "width": 1280,
+              "height": 720,
+              "expiresAt": 1753315200000
+            }
+          },
+          "newsletterUrl": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121",
+          "newsletterTitle": "Gates Notes"
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 37016,
+          "comments": 2727,
+          "shares": 750,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 26368
+            },
+            {
+              "type": "EMPATHY",
+              "count": 4758
+            },
+            {
+              "type": "PRAISE",
+              "count": 4434
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 1278
+            },
+            {
+              "type": "INTEREST",
+              "count": 159
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 19
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_today-marks-the-beginning-of-the-last-chapter-activity-7326660324483289089-9xyP?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7326220403327074307",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_20-years-to-give-away-virtually-all-my-wealth-activity-7326220403327074307-2cNN",
+          "content": "No mother or child should die from a preventable cause. No generation should live in fear of deadly infectious disease. And no one should be denied the chance to thrive because of where they were born. There have never been more opportunities to help people live healthier, more prosperous lives, and I’m accelerating my giving to make the most of them. https://lnkd.in/ggy-uF9d",
+          "postedAt": {
+            "timestamp": 1746707058746,
+            "date": "2025-05-08T12:24:18.746Z",
+            "postedAgoShort": "2w",
+            "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "20 years to give away virtually all my wealth | Bill Gates",
+            "subtitle": "gatesnotes.com",
+            "link": "https://gatesnot.es/3RQiN1d",
+            "linkLabel": "Open article: 20 years to give away virtually all my wealth | Bill Gates by gatesnot.es",
+            "description": null,
+            "image": {
+              "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHeGLqgamAYVg/articleshare-shrink_1280_800/B56Zav2kG3GgAQ-/0/1746707039157?e=1748624400&v=beta&t=_FVax8tdA__XTqfnhT6c1O_ylG2SPbtSY9z2YHwF9oE",
+              "width": 1200,
+              "height": 630,
+              "expiresAt": 1748624400000
+            }
+          },
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 13240,
+          "comments": 1232,
+          "shares": 900,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 9252
+            },
+            {
+              "type": "EMPATHY",
+              "count": 1711
+            },
+            {
+              "type": "PRAISE",
+              "count": 1571
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 644
+            },
+            {
+              "type": "INTEREST",
+              "count": 54
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 8
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_20-years-to-give-away-virtually-all-my-wealth-activity-7326220403327074307-2cNN?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7325553078957408257",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_i-love-seeing-how-technology-can-evolve-from-activity-7325553078957408257-A5S1",
+          "content": "I love seeing how technology can evolve from an innovative idea into an actual material—like CarbonCure Technologies’s emissions-reducing concrete, now being used across Singapore.",
+          "postedAt": {
+            "timestamp": 1746547956218,
+            "date": "2025-05-06T16:12:36.218Z",
+            "postedAgoShort": "2w",
+            "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 6687,
+          "comments": 615,
+          "shares": 412,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 6048
+            },
+            {
+              "type": "EMPATHY",
+              "count": 231
+            },
+            {
+              "type": "PRAISE",
+              "count": 204
+            },
+            {
+              "type": "INTEREST",
+              "count": 129
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 68
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 7
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_i-love-seeing-how-technology-can-evolve-from-activity-7325553078957408257-A5S1?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7325265131519586304",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_it-was-an-incredible-couple-of-days-in-omaha-activity-7325265131519586304-xHzC",
+          "content": "It was an incredible couple of days in Omaha. Every time I’m with Warren, I’m reminded how lucky I am to know him—not just as one of the greatest investors and philanthropists of all time, but as a mentor and a friend. My life changed the day we met. I’ve learned so much from his integrity, humor, and generosity. Congratulations, Warren.",
+          "postedAt": {
+            "timestamp": 1746479304199,
+            "date": "2025-05-05T21:08:24.199Z",
+            "postedAgoShort": "2w",
+            "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 38103,
+          "comments": 1062,
+          "shares": 504,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 33334
+            },
+            {
+              "type": "EMPATHY",
+              "count": 2774
+            },
+            {
+              "type": "PRAISE",
+              "count": 1596
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 260
+            },
+            {
+              "type": "INTEREST",
+              "count": 86
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 53
+            }
+          ]
+        },
+        "media": {
+          "images": [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQG3mJdN9rQStg/feedshare-shrink_2048_1536/B56ZaiR0olHAAs-/0/1746479303739?e=1750896000&v=beta&t=91jVH06twlAJ6-QkBZG7pAaAyp86tjIz535FsS2KIY4",
+              "width": 1920,
+              "height": 1080,
+              "expiresAt": 1750896000000
+            }
+          ]
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_it-was-an-incredible-couple-of-days-in-omaha-activity-7325265131519586304-xHzC?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7324616331494916097",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_the-drone-didis-are-taking-flight-in-india-activity-7324616331494916097-buu3",
+          "content": "With the help of fertilizer drones, women in India are transforming their lives—and the future of rural communities across the country.",
+          "postedAt": {
+            "timestamp": 1746324618219,
+            "date": "2025-05-04T02:10:18.219Z",
+            "postedAgoShort": "2w",
+            "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "The Drone Didis are taking flight in India | Bill Gates",
+            "subtitle": "gatesnotes.com",
+            "link": "https://gatesnot.es/42Ixslp",
+            "linkLabel": "Open article: The Drone Didis are taking flight in India | Bill Gates by gatesnot.es",
+            "description": null,
+            "image": {
+              "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHKreFxmkBm4w/articleshare-shrink_1280_800/B56ZaC_jv1GoAU-/0/1745954422224?e=1748624400&v=beta&t=xKtzu_D62MnHrfC9_cowvNnuQOJa4HswHgPj03JlPHM",
+              "width": 1200,
+              "height": 630,
+              "expiresAt": 1748624400000
+            }
+          },
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 2696,
+          "comments": 570,
+          "shares": 131,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 2402
+            },
+            {
+              "type": "PRAISE",
+              "count": 122
+            },
+            {
+              "type": "EMPATHY",
+              "count": 114
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 32
+            },
+            {
+              "type": "INTEREST",
+              "count": 22
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 4
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_the-drone-didis-are-taking-flight-in-india-activity-7324616331494916097-buu3?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7324149256544489472",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_im-heading-to-singapore-next-weeka-hub-activity-7324149256544489472-p7E6",
+          "content": "I’m heading to Singapore next week—a hub for innovation that is shaping the future. ​\n​\nThere, I’ll join the Philanthropy Asia Summit to talk about the role philanthropy can play in scaling solutions to global challenges. I'll also be attending Ecosperity Week to discuss how investing in energy innovation—and in the entrepreneurs driving it—can help grow the global economy while reducing emissions. And I’m especially excited to meet young changemakers at ATxInspire, where we’ll explore how technology can be a force for good. ​\n​\nAcross Southeast Asia, we’re seeing what’s possible when people work together to solve tough problems—from maternal and child health to digital public infrastructure to climate breakthroughs. I’m looking forward to learning, listening, and being part of the conversation.",
+          "postedAt": {
+            "timestamp": 1746213258873,
+            "date": "2025-05-02T19:14:18.873Z",
+            "postedAgoShort": "2w",
+            "postedAgoText": "2 weeks ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 4796,
+          "comments": 855,
+          "shares": 123,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 4328
+            },
+            {
+              "type": "EMPATHY",
+              "count": 200
+            },
+            {
+              "type": "PRAISE",
+              "count": 187
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 56
+            },
+            {
+              "type": "INTEREST",
+              "count": 22
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 3
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_im-heading-to-singapore-next-weeka-hub-activity-7324149256544489472-p7E6?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7323862993438474241",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_gavis-ceo-makes-the-case-for-funding-the-activity-7323862993438474241-ktYJ",
+          "content": "More than a million children’s lives are saved every year—and the whole world is safer— thanks to Gavi.",
+          "postedAt": {
+            "timestamp": 1746145008430,
+            "date": "2025-05-02T00:16:48.430Z",
+            "postedAgoShort": "3w",
+            "postedAgoText": "3 weeks ago • Edited • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "Gavi's CEO Makes the Case for Funding the Global Vaccine Alliance",
+            "subtitle": "time.com",
+            "link": "https://b-gat.es/4lXvHIk",
+            "linkLabel": "Open article: Gavi's CEO Makes the Case for Funding the Global Vaccine Alliance by b-gat.es",
+            "description": null,
+            "image": {
+              "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGsIX1Eam-xYg/articleshare-shrink_1280_800/B4DZX27ISpG4AQ-/0/1743604450816?e=1748624400&v=beta&t=0mbxrkJf006Tzt85_HMvbIl1ip3N7CSGgkgQBb-_nR8",
+              "width": 1024,
+              "height": 628,
+              "expiresAt": 1748624400000
+            }
+          },
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 1729,
+          "comments": 277,
+          "shares": 109,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 1519
+            },
+            {
+              "type": "EMPATHY",
+              "count": 84
+            },
+            {
+              "type": "PRAISE",
+              "count": 62
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 48
+            },
+            {
+              "type": "INTEREST",
+              "count": 13
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 3
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_gavis-ceo-makes-the-case-for-funding-the-activity-7323862993438474241-ktYJ?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7323754902457868290",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_i-got-a-flying-lesson-from-three-drone-activity-7323754902457868290-6GyO",
+          "content": "I got a “flying” lesson from three Drone Didis in India—women who are proving just how powerful investing in innovation can be.",
+          "postedAt": {
+            "timestamp": 1746119237532,
+            "date": "2025-05-01T17:07:17.532Z",
+            "postedAgoShort": "3w",
+            "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 9693,
+          "comments": 470,
+          "shares": 479,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 8742
+            },
+            {
+              "type": "EMPATHY",
+              "count": 420
+            },
+            {
+              "type": "PRAISE",
+              "count": 327
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 118
+            },
+            {
+              "type": "INTEREST",
+              "count": 71
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 15
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_i-got-a-flying-lesson-from-three-drone-activity-7323754902457868290-6GyO?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7323133249654788097",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_worldimmunizationweek-activity-7323133249654788097--oLd",
+          "content": "Vaccines save lives. #WorldImmunizationWeek",
+          "postedAt": {
+            "timestamp": 1745971023954,
+            "date": "2025-04-29T23:57:03.954Z",
+            "postedAgoShort": "3w",
+            "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": null,
+          "newsletterUrl": null,
+          "newsletterTitle": null
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 3987,
+          "comments": 564,
+          "shares": 226,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 3475
+            },
+            {
+              "type": "EMPATHY",
+              "count": 197
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 176
+            },
+            {
+              "type": "PRAISE",
+              "count": 95
+            },
+            {
+              "type": "INTEREST",
+              "count": 26
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 18
+            }
+          ]
+        },
+        "media": {
+          "images": [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQH0WxON_RP3gw/feedshare-shrink_2048_1536/B56ZaD.4tRHAAw-/0/1745971023260?e=1750896000&v=beta&t=PElCIqfNqFehxCs81-RFqlOQ-rJ03smm5r65F4barQw",
+              "width": 2048,
+              "height": 1445,
+              "expiresAt": 1750896000000
+            }
+          ]
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_worldimmunizationweek-activity-7323133249654788097--oLd?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      },
+      {
+        "post": {
+          "id": "7323047993455128579",
+          "type": "post",
+          "linkedinUrl": "https://www.linkedin.com/posts/williamhgates_i-spend-a-lot-of-time-thinking-about-how-activity-7323047993455128579-e8hn",
+          "content": "I spend a lot of time thinking about how innovation can improve lives. But nothing compares to seeing it firsthand—which is what happened when I met three women who are a part of the Namo Drone Didi program on a recent trip to India.",
+          "postedAt": {
+            "timestamp": 1745950697292,
+            "date": "2025-04-29T18:18:17.292Z",
+            "postedAgoShort": "3w",
+            "postedAgoText": "3 weeks ago • Visible to anyone on or off LinkedIn"
+          },
+          "article": {
+            "title": "The Drone Didis are taking flight",
+            "subtitle": "Bill Gates",
+            "link": "https://www.linkedin.com/pulse/drone-didis-taking-flight-bill-gates-b1okc?trackingId=En4A1BOCoNOSnQMRPbOXkg%3D%3D",
+            "linkLabel": "Open article: The Drone Didis are taking flight by Bill Gates • 4 min read",
+            "description": "I was excited to get a drone for my birthday last year. I couldn’t wait to get it into the air and see what my backyard looked like from the sky. But,",
+            "image": {
+              "url": "https://media.licdn.com/dms/image/v2/D5612AQF4mOdjDt1lNQ/article-cover_image-shrink_720_1280/B56ZaCvekDHAAM-/0/1745950208430?e=1753315200&v=beta&t=4Ra3WtF0uCZsfWfiylXqlmnd5XIgnaGOZ3etDL4YrAc",
+              "width": 1280,
+              "height": 720,
+              "expiresAt": 1753315200000
+            }
+          },
+          "newsletterUrl": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121",
+          "newsletterTitle": "Gates Notes"
+        },
+        "author": {
+          "universalName": null,
+          "publicIdentifier": "williamhgates",
+          "type": "profile",
+          "name": "Bill Gates",
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "info": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "website": "https://www.linkedin.com/newsletters/gates-notes-6651495472181637121/",
+          "websiteLabel": "View my newsletter",
+          "avatar": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+            "width": 800,
+            "height": 800,
+            "expiresAt": 1753315200000
+          }
+        },
+        "engagement": {
+          "likes": 6946,
+          "comments": 769,
+          "shares": 186,
+          "reactions": [
+            {
+              "type": "LIKE",
+              "count": 6166
+            },
+            {
+              "type": "PRAISE",
+              "count": 310
+            },
+            {
+              "type": "EMPATHY",
+              "count": 304
+            },
+            {
+              "type": "APPRECIATION",
+              "count": 95
+            },
+            {
+              "type": "INTEREST",
+              "count": 62
+            },
+            {
+              "type": "ENTERTAINMENT",
+              "count": 9
+            }
+          ]
+        },
+        "media": {
+          "images": []
+        },
+        "social": {
+          "hideCommentsCount": false,
+          "hideReactionsCount": false,
+          "hideSocialActivityCounts": false,
+          "hideShareAction": false,
+          "hideSendAction": false,
+          "hideRepostsCount": false,
+          "hideViewsCount": false,
+          "trustInterventionBanner": null,
+          "hideReactAction": false,
+          "hideCommentAction": false,
+          "shareUrl": "https://www.linkedin.com/posts/williamhgates_i-spend-a-lot-of-time-thinking-about-how-activity-7323047993455128579-e8hn?utm_source=combined_share_message&utm_medium=member_desktop_web&rcm=ACoAAFqEAGcBISVBjPCjSIzNLX0KjJpWj_BgbJM",
+          "showContributionExperience": false,
+          "showSocialDetail": true
+        },
+        "comments": [],
+        "meta": {
+          "type": "post",
+          "scraped_at": null,
+          "profile_url": null
+        }
+      }
+    ],
+    "success": true
+  },
+  "summary": {
+    "posts_found": 20,
+    "success": true,
+    "run_id": "b16M86PKWtAUM1GW1",
+    "compute_units": null,
+    "status": "SUCCEEDED"
+  }
+}

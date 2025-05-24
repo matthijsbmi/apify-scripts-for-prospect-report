@@ -1,0 +1,4552 @@
+{
+  "data": [
+    {
+      "type": "tweet",
+      "id": "1925870460652110130",
+      "url": "https://x.com/apify/status/1925870460652110130",
+      "twitterUrl": "https://twitter.com/apify/status/1925870460652110130",
+      "text": "We’re off to Bologna for PyCon Italia 2025 🇮🇹🍝\n\nCatch @Sauain on May 29 talking on:\n\n• Building Actors with Python\n• Deploying with Apify CLI\n• Turning it into repeatable income\n\nWe’ll also have a booth all week - come say hi, grab swag, and maybe win AirPods 😉\n\n#PyConIT2025 https://t.co/Ak9A4y68a6",
+      "fullText": "We’re off to Bologna for PyCon Italia 2025 🇮🇹🍝\n\nCatch @Sauain on May 29 talking on:\n\n• Building Actors with Python\n• Deploying with Apify CLI\n• Turning it into repeatable income\n\nWe’ll also have a booth all week - come say hi, grab swag, and maybe win AirPods 😉\n\n#PyConIT2025 https://t.co/Ak9A4y68a6",
+      "source": "Agorapulse app",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 310,
+      "createdAt": "Fri May 23 11:04:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "conversationId": "1925870460652110130",
+      "possiblySensitive": false,
+      "isPinned": false,
+      "author": {
+        "type": "user",
+        "userName": "apify",
+        "url": "https://x.com/apify",
+        "twitterUrl": "https://twitter.com/apify",
+        "id": "3510729917",
+        "name": "Apify",
+        "isVerified": false,
+        "verifiedType": "Business",
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+        "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+        "location": "The Interwebz",
+        "followers": 4314,
+        "following": 273,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apify.com/store",
+                "expanded_url": "http://apify.com/store",
+                "url": "https://t.co/1Qz9QFEq5B",
+                "indices": [
+                  53,
+                  76
+                ]
+              },
+              {
+                "display_url": "github.com/apify/crawlee",
+                "expanded_url": "http://github.com/apify/crawlee",
+                "url": "https://t.co/rRKDDTr71D",
+                "indices": [
+                  79,
+                  102
+                ]
+              },
+              {
+                "display_url": "youtube.com/apify",
+                "expanded_url": "http://youtube.com/apify",
+                "url": "https://t.co/2nSklDztMo",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apify.com",
+                "expanded_url": "https://apify.com",
+                "url": "https://t.co/VWktFqWjsp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2433,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "mediaCount": 654,
+        "statusesCount": 2840,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1922267282643812594"
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Ak9A4y68a6",
+            "expanded_url": "https://x.com/apify/status/1925870460652110130/photo/1",
+            "id_str": "1925870451680575488",
+            "indices": [
+              276,
+              299
+            ],
+            "media_key": "3_1925870451680575488",
+            "media_url_https": "https://pbs.twimg.com/media/GroQ-NvXgAAkyNQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/Ak9A4y68a6",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 429,
+                    "y": 1337,
+                    "h": 223,
+                    "w": 223
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 251,
+                    "y": 783,
+                    "h": 131,
+                    "w": 131
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 142,
+                    "y": 444,
+                    "h": 74,
+                    "w": 74
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 453,
+                    "y": 1411,
+                    "h": 236,
+                    "w": 236
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2160,
+              "width": 2160,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 950,
+                  "w": 2160,
+                  "h": 1210
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2160,
+                  "h": 2160
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1895,
+                  "h": 2160
+                },
+                {
+                  "x": 54,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 2160
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2160,
+                  "h": 2160
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1925870451680575488"
+              }
+            }
+          }
+        ]
+      },
+      "card": {},
+      "place": {},
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              263,
+              275
+            ],
+            "text": "PyConIT2025"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/Ak9A4y68a6",
+            "expanded_url": "https://x.com/apify/status/1925870460652110130/photo/1",
+            "id_str": "1925870451680575488",
+            "indices": [
+              276,
+              299
+            ],
+            "media_key": "3_1925870451680575488",
+            "media_url_https": "https://pbs.twimg.com/media/GroQ-NvXgAAkyNQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/Ak9A4y68a6",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 429,
+                    "y": 1337,
+                    "h": 223,
+                    "w": 223
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 251,
+                    "y": 783,
+                    "h": 131,
+                    "w": 131
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 142,
+                    "y": 444,
+                    "h": 74,
+                    "w": 74
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 453,
+                    "y": 1411,
+                    "h": 236,
+                    "w": 236
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2160,
+              "width": 2160,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 950,
+                  "w": 2160,
+                  "h": 1210
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2160,
+                  "h": 2160
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1895,
+                  "h": 2160
+                },
+                {
+                  "x": 54,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 2160
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 2160,
+                  "h": 2160
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1925870451680575488"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1401210504354304000",
+            "name": "Saurav Jain (Open Source + Communities)",
+            "screen_name": "Sauain",
+            "indices": [
+              54,
+              61
+            ]
+          }
+        ]
+      },
+      "isRetweet": false,
+      "isQuote": false,
+      "media": [
+        "https://pbs.twimg.com/media/GroQ-NvXgAAkyNQ.jpg"
+      ],
+      "isConversationControlled": false
+    },
+    {
+      "type": "tweet",
+      "id": "1925559776731177100",
+      "url": "https://x.com/apify/status/1925559776731177100",
+      "twitterUrl": "https://twitter.com/apify/status/1925559776731177100",
+      "text": "Copy-pasting contacts into lead lists 1 by 1?\n\nJoin our free webinar in 1 week (May 29, 10 am EST) and see how to automate:\n\n✅ Google Maps lead gen\n✅ Competitor tracking\n✅ Contact list creation\n\nRegister 👉 https://t.co/sI6d5ouPha",
+      "fullText": "Copy-pasting contacts into lead lists 1 by 1?\n\nJoin our free webinar in 1 week (May 29, 10 am EST) and see how to automate:\n\n✅ Google Maps lead gen\n✅ Competitor tracking\n✅ Contact list creation\n\nRegister 👉 https://t.co/sI6d5ouPha",
+      "source": "Twitter Web App",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 202,
+      "createdAt": "Thu May 22 14:30:00 +0000 2025",
+      "lang": "en",
+      "quoteId": "1922706611144999159",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "conversationId": "1925559776731177100",
+      "possiblySensitive": false,
+      "isPinned": false,
+      "author": {
+        "type": "user",
+        "userName": "apify",
+        "url": "https://x.com/apify",
+        "twitterUrl": "https://twitter.com/apify",
+        "id": "3510729917",
+        "name": "Apify",
+        "isVerified": false,
+        "verifiedType": "Business",
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+        "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+        "location": "The Interwebz",
+        "followers": 4314,
+        "following": 273,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apify.com/store",
+                "expanded_url": "http://apify.com/store",
+                "url": "https://t.co/1Qz9QFEq5B",
+                "indices": [
+                  53,
+                  76
+                ]
+              },
+              {
+                "display_url": "github.com/apify/crawlee",
+                "expanded_url": "http://github.com/apify/crawlee",
+                "url": "https://t.co/rRKDDTr71D",
+                "indices": [
+                  79,
+                  102
+                ]
+              },
+              {
+                "display_url": "youtube.com/apify",
+                "expanded_url": "http://youtube.com/apify",
+                "url": "https://t.co/2nSklDztMo",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apify.com",
+                "expanded_url": "https://apify.com",
+                "url": "https://t.co/VWktFqWjsp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2433,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "mediaCount": 654,
+        "statusesCount": 2840,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1922267282643812594"
+        ]
+      },
+      "extendedEntities": {},
+      "card": {
+        "rest_id": "https://t.co/sI6d5ouPha",
+        "legacy": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "width": 800,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=800x419"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "height": 150,
+                  "width": 267,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=280x150"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "If you’re still manually searching for leads or struggling to track competitors, join our live webinar on May 29 at 10 AM EDT.",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "apify.com",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "height": 320,
+                  "width": 569,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=800x320_1"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "width": 386,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=386x202"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "height": 1440,
+                  "width": 2560,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=orig"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "width": 386,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=386x202"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "width": 800,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=800x419"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "height": 81,
+                  "width": 144,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=144x144"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "creator",
+              "value": {
+                "type": "USER",
+                "user_value": {
+                  "id_str": "3510729917",
+                  "path": []
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 1152,
+                  "width": 2048,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=2048x2048_2_exp"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "height": 1440,
+                  "width": 2560,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=orig"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "apify.com",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "width": 600,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=600x314"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "rgb": {
+                        "blue": 33,
+                        "green": 27,
+                        "red": 26
+                      },
+                      "percentage": 91.22
+                    },
+                    {
+                      "rgb": {
+                        "blue": 127,
+                        "green": 121,
+                        "red": 120
+                      },
+                      "percentage": 5.56
+                    },
+                    {
+                      "rgb": {
+                        "blue": 125,
+                        "green": 46,
+                        "red": 48
+                      },
+                      "percentage": 1.3
+                    },
+                    {
+                      "rgb": {
+                        "blue": 223,
+                        "green": 220,
+                        "red": 219
+                      },
+                      "percentage": 0.58
+                    },
+                    {
+                      "rgb": {
+                        "blue": 80,
+                        "green": 38,
+                        "red": 36
+                      },
+                      "percentage": 0.37
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "Gain better sales data using Apify and Google Maps · Apify",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "rgb": {
+                        "blue": 33,
+                        "green": 27,
+                        "red": 26
+                      },
+                      "percentage": 91.22
+                    },
+                    {
+                      "rgb": {
+                        "blue": 127,
+                        "green": 121,
+                        "red": 120
+                      },
+                      "percentage": 5.56
+                    },
+                    {
+                      "rgb": {
+                        "blue": 125,
+                        "green": 46,
+                        "red": 48
+                      },
+                      "percentage": 1.3
+                    },
+                    {
+                      "rgb": {
+                        "blue": 223,
+                        "green": 220,
+                        "red": 219
+                      },
+                      "percentage": 0.58
+                    },
+                    {
+                      "rgb": {
+                        "blue": 80,
+                        "green": 38,
+                        "red": 36
+                      },
+                      "percentage": 0.37
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 1152,
+                  "width": 2048,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=2048x2048_2_exp"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "width": 600,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=600x314"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "rgb": {
+                        "blue": 33,
+                        "green": 27,
+                        "red": 26
+                      },
+                      "percentage": 91.22
+                    },
+                    {
+                      "rgb": {
+                        "blue": 127,
+                        "green": 121,
+                        "red": 120
+                      },
+                      "percentage": 5.56
+                    },
+                    {
+                      "rgb": {
+                        "blue": 125,
+                        "green": 46,
+                        "red": 48
+                      },
+                      "percentage": 1.3
+                    },
+                    {
+                      "rgb": {
+                        "blue": 223,
+                        "green": 220,
+                        "red": 219
+                      },
+                      "percentage": 0.58
+                    },
+                    {
+                      "rgb": {
+                        "blue": 80,
+                        "green": 38,
+                        "red": 36
+                      },
+                      "percentage": 0.37
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "height": 1152,
+                  "width": 2048,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=2048x2048_2_exp"
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/sI6d5ouPha",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "height": 1440,
+                  "width": 2560,
+                  "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=orig"
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/sI6d5ouPha",
+          "user_refs_results": [
+            {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjozNTEwNzI5OTE3",
+                "rest_id": "3510729917",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Square",
+                "legacy": {
+                  "following": false,
+                  "can_dm": true,
+                  "can_media_tag": true,
+                  "created_at": "Tue Sep 01 08:38:01 +0000 2015",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "apify.com/store",
+                          "expanded_url": "http://apify.com/store",
+                          "url": "https://t.co/1Qz9QFEq5B",
+                          "indices": [
+                            53,
+                            76
+                          ]
+                        },
+                        {
+                          "display_url": "github.com/apify/crawlee",
+                          "expanded_url": "http://github.com/apify/crawlee",
+                          "url": "https://t.co/rRKDDTr71D",
+                          "indices": [
+                            79,
+                            102
+                          ]
+                        },
+                        {
+                          "display_url": "youtube.com/apify",
+                          "expanded_url": "http://youtube.com/apify",
+                          "url": "https://t.co/2nSklDztMo",
+                          "indices": [
+                            105,
+                            128
+                          ]
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "apify.com",
+                          "expanded_url": "https://apify.com",
+                          "url": "https://t.co/VWktFqWjsp",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 2433,
+                  "followers_count": 4314,
+                  "friends_count": 273,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 92,
+                  "location": "The Interwebz",
+                  "media_count": 654,
+                  "name": "Apify",
+                  "normal_followers_count": 4314,
+                  "pinned_tweet_ids_str": [
+                    "1922267282643812594"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "apify",
+                  "statuses_count": 2840,
+                  "translator_type": "none",
+                  "url": "https://t.co/VWktFqWjsp",
+                  "verified": false,
+                  "verified_type": "Business",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "professional": {
+                  "rest_id": "1583013496266137600",
+                  "professional_type": "Business",
+                  "category": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          ]
+        }
+      },
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "apify.it/43hWA1p",
+            "expanded_url": "http://apify.it/43hWA1p",
+            "url": "https://t.co/sI6d5ouPha",
+            "indices": [
+              206,
+              229
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "isRetweet": false,
+      "isQuote": true,
+      "quote": {
+        "type": "tweet",
+        "id": "1922706611144999159",
+        "text": "🗺️  Still collecting leads from Google Maps manually? Learn how to automate it in our free webinar on May 29:\n\n🔹 Scrape business leads by keyword & location\n🔹 Export names, addresses, emails, websites, reviews, and more\n🔹 Track local competition and scale outreach\n\nRegister here → https://t.co/vHGgbfGALU",
+        "source": "Agorapulse app",
+        "retweetCount": 0,
+        "replyCount": 3,
+        "likeCount": 3,
+        "quoteCount": 1,
+        "viewCount": 438,
+        "createdAt": "Wed May 14 17:32:32 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "possiblySensitive": false,
+        "isPinned": false,
+        "author": {
+          "type": "user",
+          "userName": "apify",
+          "url": "https://x.com/apify",
+          "twitterUrl": "https://twitter.com/apify",
+          "id": "3510729917",
+          "name": "Apify",
+          "isVerified": false,
+          "verifiedType": "Business",
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+          "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+          "location": "The Interwebz",
+          "followers": 4314,
+          "following": 273,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "apify.com/store",
+                  "expanded_url": "http://apify.com/store",
+                  "url": "https://t.co/1Qz9QFEq5B",
+                  "indices": [
+                    53,
+                    76
+                  ]
+                },
+                {
+                  "display_url": "github.com/apify/crawlee",
+                  "expanded_url": "http://github.com/apify/crawlee",
+                  "url": "https://t.co/rRKDDTr71D",
+                  "indices": [
+                    79,
+                    102
+                  ]
+                },
+                {
+                  "display_url": "youtube.com/apify",
+                  "expanded_url": "http://youtube.com/apify",
+                  "url": "https://t.co/2nSklDztMo",
+                  "indices": [
+                    105,
+                    128
+                  ]
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "apify.com",
+                  "expanded_url": "https://apify.com",
+                  "url": "https://t.co/VWktFqWjsp",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 2433,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "mediaCount": 654,
+          "statusesCount": 2840,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1922267282643812594"
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/Crp6XVPnDk",
+              "expanded_url": "https://x.com/apify/status/1922706611144999159/photo/1",
+              "id_str": "1922706604341743618",
+              "indices": [
+                279,
+                302
+              ],
+              "media_key": "3_1922706604341743618",
+              "media_url_https": "https://pbs.twimg.com/media/Gq7TeD8WUAINKlD.jpg",
+              "type": "photo",
+              "url": "https://t.co/Crp6XVPnDk",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "x": 1416,
+                      "y": 188,
+                      "h": 128,
+                      "w": 128
+                    },
+                    {
+                      "x": 1404,
+                      "y": 720,
+                      "h": 164,
+                      "w": 164
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "x": 829,
+                      "y": 110,
+                      "h": 75,
+                      "w": 75
+                    },
+                    {
+                      "x": 822,
+                      "y": 421,
+                      "h": 96,
+                      "w": 96
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "x": 470,
+                      "y": 62,
+                      "h": 42,
+                      "w": 42
+                    },
+                    {
+                      "x": 466,
+                      "y": 239,
+                      "h": 54,
+                      "w": 54
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "x": 1770,
+                      "y": 235,
+                      "h": 160,
+                      "w": 160
+                    },
+                    {
+                      "x": 1755,
+                      "y": 900,
+                      "h": 205,
+                      "w": 205
+                    }
+                  ]
+                }
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 675,
+                  "w": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 383,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 1440,
+                "width": 2560,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 2560,
+                    "h": 1434
+                  },
+                  {
+                    "x": 112,
+                    "y": 0,
+                    "w": 1440,
+                    "h": 1440
+                  },
+                  {
+                    "x": 201,
+                    "y": 0,
+                    "w": 1263,
+                    "h": 1440
+                  },
+                  {
+                    "x": 472,
+                    "y": 0,
+                    "w": 720,
+                    "h": 1440
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 2560,
+                    "h": 1440
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "3_1922706604341743618"
+                }
+              }
+            }
+          ]
+        },
+        "card": {},
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "apify.it/43hWA1p",
+              "expanded_url": "https://apify.it/43hWA1p",
+              "url": "https://t.co/vHGgbfGALU",
+              "indices": [
+                282,
+                305
+              ]
+            }
+          ],
+          "user_mentions": []
+        }
+      },
+      "media": [],
+      "isConversationControlled": false
+    },
+    {
+      "type": "tweet",
+      "id": "1924902581056205137",
+      "url": "https://x.com/apify/status/1924902581056205137",
+      "twitterUrl": "https://twitter.com/apify/status/1924902581056205137",
+      "text": "📍 Looking to join our next tech meetup or talk? Subscribe at https://t.co/RnzoyeLXqW to stay in the loop\n\nPlenty coming up across the US, Czechia &amp; Europe 🌎\n\nAdd to bookmarks. And join us soon? https://t.co/mI02EBZtwb",
+      "fullText": "📍 Looking to join our next tech meetup or talk? Subscribe at https://t.co/RnzoyeLXqW to stay in the loop\n\nPlenty coming up across the US, Czechia &amp; Europe 🌎\n\nAdd to bookmarks. And join us soon? https://t.co/mI02EBZtwb",
+      "source": "Agorapulse app",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 174,
+      "createdAt": "Tue May 20 18:58:32 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "conversationId": "1924902581056205137",
+      "possiblySensitive": false,
+      "isPinned": false,
+      "author": {
+        "type": "user",
+        "userName": "apify",
+        "url": "https://x.com/apify",
+        "twitterUrl": "https://twitter.com/apify",
+        "id": "3510729917",
+        "name": "Apify",
+        "isVerified": false,
+        "verifiedType": "Business",
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+        "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+        "location": "The Interwebz",
+        "followers": 4314,
+        "following": 273,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apify.com/store",
+                "expanded_url": "http://apify.com/store",
+                "url": "https://t.co/1Qz9QFEq5B",
+                "indices": [
+                  53,
+                  76
+                ]
+              },
+              {
+                "display_url": "github.com/apify/crawlee",
+                "expanded_url": "http://github.com/apify/crawlee",
+                "url": "https://t.co/rRKDDTr71D",
+                "indices": [
+                  79,
+                  102
+                ]
+              },
+              {
+                "display_url": "youtube.com/apify",
+                "expanded_url": "http://youtube.com/apify",
+                "url": "https://t.co/2nSklDztMo",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apify.com",
+                "expanded_url": "https://apify.com",
+                "url": "https://t.co/VWktFqWjsp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2433,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "mediaCount": 654,
+        "statusesCount": 2840,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1922267282643812594"
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/mI02EBZtwb",
+            "expanded_url": "https://x.com/apify/status/1924902581056205137/photo/1",
+            "id_str": "1924902571778433024",
+            "indices": [
+              198,
+              221
+            ],
+            "media_key": "3_1924902571778433024",
+            "media_url_https": "https://pbs.twimg.com/media/GragsMIW4AAWxWN.jpg",
+            "type": "photo",
+            "url": "https://t.co/mI02EBZtwb",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1800,
+              "width": 3200,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 3200,
+                  "h": 1792
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1800,
+                  "h": 1800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1579,
+                  "h": 1800
+                },
+                {
+                  "x": 110,
+                  "y": 0,
+                  "w": 900,
+                  "h": 1800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 3200,
+                  "h": 1800
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1924902571778433024"
+              }
+            }
+          }
+        ]
+      },
+      "card": {},
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/mI02EBZtwb",
+            "expanded_url": "https://x.com/apify/status/1924902581056205137/photo/1",
+            "id_str": "1924902571778433024",
+            "indices": [
+              198,
+              221
+            ],
+            "media_key": "3_1924902571778433024",
+            "media_url_https": "https://pbs.twimg.com/media/GragsMIW4AAWxWN.jpg",
+            "type": "photo",
+            "url": "https://t.co/mI02EBZtwb",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1800,
+              "width": 3200,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 3200,
+                  "h": 1792
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1800,
+                  "h": 1800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1579,
+                  "h": 1800
+                },
+                {
+                  "x": 110,
+                  "y": 0,
+                  "w": 900,
+                  "h": 1800
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 3200,
+                  "h": 1800
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1924902571778433024"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lu.ma/apify",
+            "expanded_url": "http://lu.ma/apify",
+            "url": "https://t.co/RnzoyeLXqW",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "isRetweet": false,
+      "isQuote": false,
+      "media": [
+        "https://pbs.twimg.com/media/GragsMIW4AAWxWN.jpg"
+      ],
+      "isConversationControlled": false
+    },
+    {
+      "type": "tweet",
+      "id": "1924181376649036177",
+      "url": "https://x.com/apify/status/1924181376649036177",
+      "twitterUrl": "https://twitter.com/apify/status/1924181376649036177",
+      "text": "RT @victor_explore: Automate web scraping without writing a single line of code. This video explains:\n\n- Connecting Apify (web scraping mar…",
+      "fullText": "RT @victor_explore: Automate web scraping without writing a single line of code. This video explains:\n\n- Connecting Apify (web scraping mar…",
+      "source": "Twitter Web App",
+      "retweetCount": 4,
+      "replyCount": 1,
+      "likeCount": 30,
+      "quoteCount": 1,
+      "viewCount": 82,
+      "createdAt": "Sun May 18 19:12:44 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 32,
+      "isReply": false,
+      "conversationId": "1924181376649036177",
+      "isPinned": false,
+      "author": {
+        "type": "user",
+        "userName": "apify",
+        "url": "https://x.com/apify",
+        "twitterUrl": "https://twitter.com/apify",
+        "id": "3510729917",
+        "name": "Apify",
+        "isVerified": false,
+        "verifiedType": "Business",
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+        "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+        "location": "The Interwebz",
+        "followers": 4314,
+        "following": 273,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apify.com/store",
+                "expanded_url": "http://apify.com/store",
+                "url": "https://t.co/1Qz9QFEq5B",
+                "indices": [
+                  53,
+                  76
+                ]
+              },
+              {
+                "display_url": "github.com/apify/crawlee",
+                "expanded_url": "http://github.com/apify/crawlee",
+                "url": "https://t.co/rRKDDTr71D",
+                "indices": [
+                  79,
+                  102
+                ]
+              },
+              {
+                "display_url": "youtube.com/apify",
+                "expanded_url": "http://youtube.com/apify",
+                "url": "https://t.co/2nSklDztMo",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apify.com",
+                "expanded_url": "https://apify.com",
+                "url": "https://t.co/VWktFqWjsp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2433,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "mediaCount": 654,
+        "statusesCount": 2840,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1922267282643812594"
+        ]
+      },
+      "extendedEntities": {},
+      "card": {},
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1366752206058180608",
+            "name": "Victor",
+            "screen_name": "victor_explore",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ]
+      },
+      "isRetweet": true,
+      "retweet": {
+        "type": "tweet",
+        "id": "1923577060804411605",
+        "text": "Automate web scraping without writing a single line of code. This video explains:\n\n- Connecting Apify (web scraping marketplace) with n8n (automation tool)\n- Setting up TikTok and Google Maps scrapers step-by-step\n- Handling asynchronous scraping workflows\n- Implementing proper wait times between requests\n- Using polling techniques for variable-length jobs\n- Extracting structured data ready for further processing",
+        "source": "Twitter Web App",
+        "retweetCount": 4,
+        "replyCount": 1,
+        "likeCount": 30,
+        "quoteCount": 1,
+        "viewCount": 82,
+        "createdAt": "Sat May 17 03:11:24 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 32,
+        "possiblySensitive": false,
+        "isPinned": false,
+        "author": {
+          "type": "user",
+          "userName": "victor_explore",
+          "url": "https://x.com/victor_explore",
+          "twitterUrl": "https://twitter.com/victor_explore",
+          "id": "1366752206058180608",
+          "name": "Victor",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1891322636409651200/ZaOX3e5t_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1366752206058180608/1739761432",
+          "description": "Alum @iiscbangalore | Building AI Agents at https://t.co/OCwvNyURlW",
+          "location": "",
+          "followers": 13574,
+          "following": 1532,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Mar 02 14:08:28 +0000 2021",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "shop.victorexplore.com",
+                  "expanded_url": "https://shop.victorexplore.com/",
+                  "url": "https://t.co/OCwvNyURlW",
+                  "indices": [
+                    44,
+                    67
+                  ]
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/Victor_explore",
+                  "expanded_url": "https://linktr.ee/Victor_explore",
+                  "url": "https://t.co/SKw4gYT8zR",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 5625,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 4661,
+          "statusesCount": 26668,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1833710065033118033"
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/znUq893EDF",
+              "expanded_url": "https://x.com/victor_explore/status/1923577060804411605/photo/1",
+              "id_str": "1923576705655955456",
+              "indices": [
+                279,
+                302
+              ],
+              "media_key": "3_1923576705655955456",
+              "media_url_https": "https://pbs.twimg.com/media/GrHq0n7W4AA3FGN.jpg",
+              "type": "photo",
+              "url": "https://t.co/znUq893EDF",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "x": 1021,
+                      "y": 558,
+                      "h": 49,
+                      "w": 49
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "x": 1021,
+                      "y": 558,
+                      "h": 49,
+                      "w": 49
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "x": 593,
+                      "y": 324,
+                      "h": 28,
+                      "w": 28
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "x": 1021,
+                      "y": 558,
+                      "h": 49,
+                      "w": 49
+                    }
+                  ]
+                }
+              },
+              "sizes": {
+                "large": {
+                  "h": 794,
+                  "w": 1169,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 794,
+                  "w": 1169,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 462,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 794,
+                "width": 1169,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 139,
+                    "w": 1169,
+                    "h": 655
+                  },
+                  {
+                    "x": 375,
+                    "y": 0,
+                    "w": 794,
+                    "h": 794
+                  },
+                  {
+                    "x": 473,
+                    "y": 0,
+                    "w": 696,
+                    "h": 794
+                  },
+                  {
+                    "x": 766,
+                    "y": 0,
+                    "w": 397,
+                    "h": 794
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1169,
+                    "h": 794
+                  }
+                ]
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "3_1923576705655955456"
+                }
+              }
+            }
+          ]
+        },
+        "card": {},
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "isQuote": false,
+      "media": [],
+      "isConversationControlled": false
+    },
+    {
+      "type": "tweet",
+      "id": "1924087600576409691",
+      "url": "https://x.com/apify/status/1924087600576409691",
+      "twitterUrl": "https://twitter.com/apify/status/1924087600576409691",
+      "text": "Good automation magic? We’ve got Actors to plug into MCP for that. 😎\n\nThanks for the shoutout, James! https://t.co/bDNajQVaoq",
+      "fullText": "Good automation magic? We’ve got Actors to plug into MCP for that. 😎\n\nThanks for the shoutout, James! https://t.co/bDNajQVaoq",
+      "source": "Agorapulse app",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 234,
+      "createdAt": "Sun May 18 13:00:06 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "conversationId": "1924087600576409691",
+      "possiblySensitive": false,
+      "isPinned": false,
+      "author": {
+        "type": "user",
+        "userName": "apify",
+        "url": "https://x.com/apify",
+        "twitterUrl": "https://twitter.com/apify",
+        "id": "3510729917",
+        "name": "Apify",
+        "isVerified": false,
+        "verifiedType": "Business",
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+        "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+        "location": "The Interwebz",
+        "followers": 4314,
+        "following": 273,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apify.com/store",
+                "expanded_url": "http://apify.com/store",
+                "url": "https://t.co/1Qz9QFEq5B",
+                "indices": [
+                  53,
+                  76
+                ]
+              },
+              {
+                "display_url": "github.com/apify/crawlee",
+                "expanded_url": "http://github.com/apify/crawlee",
+                "url": "https://t.co/rRKDDTr71D",
+                "indices": [
+                  79,
+                  102
+                ]
+              },
+              {
+                "display_url": "youtube.com/apify",
+                "expanded_url": "http://youtube.com/apify",
+                "url": "https://t.co/2nSklDztMo",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apify.com",
+                "expanded_url": "https://apify.com",
+                "url": "https://t.co/VWktFqWjsp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2433,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "mediaCount": 654,
+        "statusesCount": 2840,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1922267282643812594"
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/bDNajQVaoq",
+            "expanded_url": "https://x.com/apify/status/1924087600576409691/photo/1",
+            "id_str": "1924087595526414336",
+            "indices": [
+              102,
+              125
+            ],
+            "media_key": "3_1924087595526414336",
+            "media_url_https": "https://pbs.twimg.com/media/GrO7eVAWYAATEXU.jpg",
+            "type": "photo",
+            "url": "https://t.co/bDNajQVaoq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 478,
+                    "y": 640,
+                    "h": 54,
+                    "w": 54
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 478,
+                    "y": 640,
+                    "h": 54,
+                    "w": 54
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 300,
+                    "y": 402,
+                    "h": 34,
+                    "w": 34
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 478,
+                    "y": 640,
+                    "h": 54,
+                    "w": 54
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1080,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 427,
+                  "w": 1080,
+                  "h": 605
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                },
+                {
+                  "x": 67,
+                  "y": 0,
+                  "w": 947,
+                  "h": 1080
+                },
+                {
+                  "x": 270,
+                  "y": 0,
+                  "w": 540,
+                  "h": 1080
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1924087595526414336"
+              }
+            }
+          }
+        ]
+      },
+      "card": {},
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/bDNajQVaoq",
+            "expanded_url": "https://x.com/apify/status/1924087600576409691/photo/1",
+            "id_str": "1924087595526414336",
+            "indices": [
+              102,
+              125
+            ],
+            "media_key": "3_1924087595526414336",
+            "media_url_https": "https://pbs.twimg.com/media/GrO7eVAWYAATEXU.jpg",
+            "type": "photo",
+            "url": "https://t.co/bDNajQVaoq",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 478,
+                    "y": 640,
+                    "h": 54,
+                    "w": 54
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 478,
+                    "y": 640,
+                    "h": 54,
+                    "w": 54
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 300,
+                    "y": 402,
+                    "h": 34,
+                    "w": 34
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 478,
+                    "y": 640,
+                    "h": 54,
+                    "w": 54
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1080,
+                "w": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1080,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 427,
+                  "w": 1080,
+                  "h": 605
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                },
+                {
+                  "x": 67,
+                  "y": 0,
+                  "w": 947,
+                  "h": 1080
+                },
+                {
+                  "x": 270,
+                  "y": 0,
+                  "w": 540,
+                  "h": 1080
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1924087595526414336"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "isRetweet": false,
+      "isQuote": false,
+      "media": [
+        "https://pbs.twimg.com/media/GrO7eVAWYAATEXU.jpg"
+      ],
+      "isConversationControlled": false
+    }
+  ],
+  "metadata": {
+    "run_id": "f2yMyzMeuDVJzhLCY",
+    "actor_id": "61RPP7dywgiy0JPD0",
+    "status": "SUCCEEDED",
+    "started_at": "2025-05-23T18:28:57.740000+00:00",
+    "finished_at": "2025-05-23T18:29:07.180000+00:00",
+    "items": [
+      {
+        "type": "tweet",
+        "id": "1925870460652110130",
+        "url": "https://x.com/apify/status/1925870460652110130",
+        "twitterUrl": "https://twitter.com/apify/status/1925870460652110130",
+        "text": "We’re off to Bologna for PyCon Italia 2025 🇮🇹🍝\n\nCatch @Sauain on May 29 talking on:\n\n• Building Actors with Python\n• Deploying with Apify CLI\n• Turning it into repeatable income\n\nWe’ll also have a booth all week - come say hi, grab swag, and maybe win AirPods 😉\n\n#PyConIT2025 https://t.co/Ak9A4y68a6",
+        "fullText": "We’re off to Bologna for PyCon Italia 2025 🇮🇹🍝\n\nCatch @Sauain on May 29 talking on:\n\n• Building Actors with Python\n• Deploying with Apify CLI\n• Turning it into repeatable income\n\nWe’ll also have a booth all week - come say hi, grab swag, and maybe win AirPods 😉\n\n#PyConIT2025 https://t.co/Ak9A4y68a6",
+        "source": "Agorapulse app",
+        "retweetCount": 1,
+        "replyCount": 0,
+        "likeCount": 4,
+        "quoteCount": 0,
+        "viewCount": 310,
+        "createdAt": "Fri May 23 11:04:33 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "conversationId": "1925870460652110130",
+        "possiblySensitive": false,
+        "isPinned": false,
+        "author": {
+          "type": "user",
+          "userName": "apify",
+          "url": "https://x.com/apify",
+          "twitterUrl": "https://twitter.com/apify",
+          "id": "3510729917",
+          "name": "Apify",
+          "isVerified": false,
+          "verifiedType": "Business",
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+          "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+          "location": "The Interwebz",
+          "followers": 4314,
+          "following": 273,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "apify.com/store",
+                  "expanded_url": "http://apify.com/store",
+                  "url": "https://t.co/1Qz9QFEq5B",
+                  "indices": [
+                    53,
+                    76
+                  ]
+                },
+                {
+                  "display_url": "github.com/apify/crawlee",
+                  "expanded_url": "http://github.com/apify/crawlee",
+                  "url": "https://t.co/rRKDDTr71D",
+                  "indices": [
+                    79,
+                    102
+                  ]
+                },
+                {
+                  "display_url": "youtube.com/apify",
+                  "expanded_url": "http://youtube.com/apify",
+                  "url": "https://t.co/2nSklDztMo",
+                  "indices": [
+                    105,
+                    128
+                  ]
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "apify.com",
+                  "expanded_url": "https://apify.com",
+                  "url": "https://t.co/VWktFqWjsp",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 2433,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "mediaCount": 654,
+          "statusesCount": 2840,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1922267282643812594"
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/Ak9A4y68a6",
+              "expanded_url": "https://x.com/apify/status/1925870460652110130/photo/1",
+              "id_str": "1925870451680575488",
+              "indices": [
+                276,
+                299
+              ],
+              "media_key": "3_1925870451680575488",
+              "media_url_https": "https://pbs.twimg.com/media/GroQ-NvXgAAkyNQ.jpg",
+              "type": "photo",
+              "url": "https://t.co/Ak9A4y68a6",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "x": 429,
+                      "y": 1337,
+                      "h": 223,
+                      "w": 223
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "x": 251,
+                      "y": 783,
+                      "h": 131,
+                      "w": 131
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "x": 142,
+                      "y": 444,
+                      "h": 74,
+                      "w": 74
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "x": 453,
+                      "y": 1411,
+                      "h": 236,
+                      "w": 236
+                    }
+                  ]
+                }
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "w": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 1200,
+                  "w": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 680,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 2160,
+                "width": 2160,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 950,
+                    "w": 2160,
+                    "h": 1210
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 2160,
+                    "h": 2160
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1895,
+                    "h": 2160
+                  },
+                  {
+                    "x": 54,
+                    "y": 0,
+                    "w": 1080,
+                    "h": 2160
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 2160,
+                    "h": 2160
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "3_1925870451680575488"
+                }
+              }
+            }
+          ]
+        },
+        "card": {},
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                263,
+                275
+              ],
+              "text": "PyConIT2025"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.x.com/Ak9A4y68a6",
+              "expanded_url": "https://x.com/apify/status/1925870460652110130/photo/1",
+              "id_str": "1925870451680575488",
+              "indices": [
+                276,
+                299
+              ],
+              "media_key": "3_1925870451680575488",
+              "media_url_https": "https://pbs.twimg.com/media/GroQ-NvXgAAkyNQ.jpg",
+              "type": "photo",
+              "url": "https://t.co/Ak9A4y68a6",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "x": 429,
+                      "y": 1337,
+                      "h": 223,
+                      "w": 223
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "x": 251,
+                      "y": 783,
+                      "h": 131,
+                      "w": 131
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "x": 142,
+                      "y": 444,
+                      "h": 74,
+                      "w": 74
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "x": 453,
+                      "y": 1411,
+                      "h": 236,
+                      "w": 236
+                    }
+                  ]
+                }
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "w": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 1200,
+                  "w": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 680,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 2160,
+                "width": 2160,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 950,
+                    "w": 2160,
+                    "h": 1210
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 2160,
+                    "h": 2160
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1895,
+                    "h": 2160
+                  },
+                  {
+                    "x": 54,
+                    "y": 0,
+                    "w": 1080,
+                    "h": 2160
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 2160,
+                    "h": 2160
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "3_1925870451680575488"
+                }
+              }
+            }
+          ],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1401210504354304000",
+              "name": "Saurav Jain (Open Source + Communities)",
+              "screen_name": "Sauain",
+              "indices": [
+                54,
+                61
+              ]
+            }
+          ]
+        },
+        "isRetweet": false,
+        "isQuote": false,
+        "media": [
+          "https://pbs.twimg.com/media/GroQ-NvXgAAkyNQ.jpg"
+        ],
+        "isConversationControlled": false
+      },
+      {
+        "type": "tweet",
+        "id": "1925559776731177100",
+        "url": "https://x.com/apify/status/1925559776731177100",
+        "twitterUrl": "https://twitter.com/apify/status/1925559776731177100",
+        "text": "Copy-pasting contacts into lead lists 1 by 1?\n\nJoin our free webinar in 1 week (May 29, 10 am EST) and see how to automate:\n\n✅ Google Maps lead gen\n✅ Competitor tracking\n✅ Contact list creation\n\nRegister 👉 https://t.co/sI6d5ouPha",
+        "fullText": "Copy-pasting contacts into lead lists 1 by 1?\n\nJoin our free webinar in 1 week (May 29, 10 am EST) and see how to automate:\n\n✅ Google Maps lead gen\n✅ Competitor tracking\n✅ Contact list creation\n\nRegister 👉 https://t.co/sI6d5ouPha",
+        "source": "Twitter Web App",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 202,
+        "createdAt": "Thu May 22 14:30:00 +0000 2025",
+        "lang": "en",
+        "quoteId": "1922706611144999159",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "conversationId": "1925559776731177100",
+        "possiblySensitive": false,
+        "isPinned": false,
+        "author": {
+          "type": "user",
+          "userName": "apify",
+          "url": "https://x.com/apify",
+          "twitterUrl": "https://twitter.com/apify",
+          "id": "3510729917",
+          "name": "Apify",
+          "isVerified": false,
+          "verifiedType": "Business",
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+          "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+          "location": "The Interwebz",
+          "followers": 4314,
+          "following": 273,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "apify.com/store",
+                  "expanded_url": "http://apify.com/store",
+                  "url": "https://t.co/1Qz9QFEq5B",
+                  "indices": [
+                    53,
+                    76
+                  ]
+                },
+                {
+                  "display_url": "github.com/apify/crawlee",
+                  "expanded_url": "http://github.com/apify/crawlee",
+                  "url": "https://t.co/rRKDDTr71D",
+                  "indices": [
+                    79,
+                    102
+                  ]
+                },
+                {
+                  "display_url": "youtube.com/apify",
+                  "expanded_url": "http://youtube.com/apify",
+                  "url": "https://t.co/2nSklDztMo",
+                  "indices": [
+                    105,
+                    128
+                  ]
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "apify.com",
+                  "expanded_url": "https://apify.com",
+                  "url": "https://t.co/VWktFqWjsp",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 2433,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "mediaCount": 654,
+          "statusesCount": 2840,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1922267282643812594"
+          ]
+        },
+        "extendedEntities": {},
+        "card": {
+          "rest_id": "https://t.co/sI6d5ouPha",
+          "legacy": {
+            "binding_values": [
+              {
+                "key": "photo_image_full_size_large",
+                "value": {
+                  "image_value": {
+                    "height": 419,
+                    "width": 800,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=800x419"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image",
+                "value": {
+                  "image_value": {
+                    "height": 150,
+                    "width": 267,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=280x150"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "description",
+                "value": {
+                  "string_value": "If you’re still manually searching for leads or struggling to track competitors, join our live webinar on May 29 at 10 AM EDT.",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "domain",
+                "value": {
+                  "string_value": "apify.com",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "thumbnail_image_large",
+                "value": {
+                  "image_value": {
+                    "height": 320,
+                    "width": 569,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=800x320_1"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_small",
+                "value": {
+                  "image_value": {
+                    "height": 202,
+                    "width": 386,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=386x202"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_original",
+                "value": {
+                  "image_value": {
+                    "height": 1440,
+                    "width": 2560,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=orig"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_small",
+                "value": {
+                  "image_value": {
+                    "height": 202,
+                    "width": 386,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=386x202"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_large",
+                "value": {
+                  "image_value": {
+                    "height": 419,
+                    "width": 800,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=800x419"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_small",
+                "value": {
+                  "image_value": {
+                    "height": 81,
+                    "width": 144,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=144x144"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "creator",
+                "value": {
+                  "type": "USER",
+                  "user_value": {
+                    "id_str": "3510729917",
+                    "path": []
+                  }
+                }
+              },
+              {
+                "key": "thumbnail_image_x_large",
+                "value": {
+                  "image_value": {
+                    "height": 1152,
+                    "width": 2048,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=2048x2048_2_exp"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_original",
+                "value": {
+                  "image_value": {
+                    "height": 1440,
+                    "width": 2560,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=orig"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "vanity_url",
+                "value": {
+                  "scribe_key": "vanity_url",
+                  "string_value": "apify.com",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "photo_image_full_size",
+                "value": {
+                  "image_value": {
+                    "height": 314,
+                    "width": 600,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=600x314"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_color",
+                "value": {
+                  "image_color_value": {
+                    "palette": [
+                      {
+                        "rgb": {
+                          "blue": 33,
+                          "green": 27,
+                          "red": 26
+                        },
+                        "percentage": 91.22
+                      },
+                      {
+                        "rgb": {
+                          "blue": 127,
+                          "green": 121,
+                          "red": 120
+                        },
+                        "percentage": 5.56
+                      },
+                      {
+                        "rgb": {
+                          "blue": 125,
+                          "green": 46,
+                          "red": 48
+                        },
+                        "percentage": 1.3
+                      },
+                      {
+                        "rgb": {
+                          "blue": 223,
+                          "green": 220,
+                          "red": 219
+                        },
+                        "percentage": 0.58
+                      },
+                      {
+                        "rgb": {
+                          "blue": 80,
+                          "green": 38,
+                          "red": 36
+                        },
+                        "percentage": 0.37
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "title",
+                "value": {
+                  "string_value": "Gain better sales data using Apify and Google Maps · Apify",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_color",
+                "value": {
+                  "image_color_value": {
+                    "palette": [
+                      {
+                        "rgb": {
+                          "blue": 33,
+                          "green": 27,
+                          "red": 26
+                        },
+                        "percentage": 91.22
+                      },
+                      {
+                        "rgb": {
+                          "blue": 127,
+                          "green": 121,
+                          "red": 120
+                        },
+                        "percentage": 5.56
+                      },
+                      {
+                        "rgb": {
+                          "blue": 125,
+                          "green": 46,
+                          "red": 48
+                        },
+                        "percentage": 1.3
+                      },
+                      {
+                        "rgb": {
+                          "blue": 223,
+                          "green": 220,
+                          "red": 219
+                        },
+                        "percentage": 0.58
+                      },
+                      {
+                        "rgb": {
+                          "blue": 80,
+                          "green": 38,
+                          "red": 36
+                        },
+                        "percentage": 0.37
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "summary_photo_image_x_large",
+                "value": {
+                  "image_value": {
+                    "height": 1152,
+                    "width": 2048,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=2048x2048_2_exp"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image",
+                "value": {
+                  "image_value": {
+                    "height": 314,
+                    "width": 600,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=600x314"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_color",
+                "value": {
+                  "image_color_value": {
+                    "palette": [
+                      {
+                        "rgb": {
+                          "blue": 33,
+                          "green": 27,
+                          "red": 26
+                        },
+                        "percentage": 91.22
+                      },
+                      {
+                        "rgb": {
+                          "blue": 127,
+                          "green": 121,
+                          "red": 120
+                        },
+                        "percentage": 5.56
+                      },
+                      {
+                        "rgb": {
+                          "blue": 125,
+                          "green": 46,
+                          "red": 48
+                        },
+                        "percentage": 1.3
+                      },
+                      {
+                        "rgb": {
+                          "blue": 223,
+                          "green": 220,
+                          "red": 219
+                        },
+                        "percentage": 0.58
+                      },
+                      {
+                        "rgb": {
+                          "blue": 80,
+                          "green": 38,
+                          "red": 36
+                        },
+                        "percentage": 0.37
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "photo_image_full_size_x_large",
+                "value": {
+                  "image_value": {
+                    "height": 1152,
+                    "width": 2048,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=2048x2048_2_exp"
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "card_url",
+                "value": {
+                  "scribe_key": "card_url",
+                  "string_value": "https://t.co/sI6d5ouPha",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_original",
+                "value": {
+                  "image_value": {
+                    "height": 1440,
+                    "width": 2560,
+                    "url": "https://pbs.twimg.com/card_img/1925559819378778112/60-38Wc1?format=png&name=orig"
+                  },
+                  "type": "IMAGE"
+                }
+              }
+            ],
+            "card_platform": {
+              "platform": {
+                "audience": {
+                  "name": "production"
+                },
+                "device": {
+                  "name": "Swift",
+                  "version": "12"
+                }
+              }
+            },
+            "name": "summary_large_image",
+            "url": "https://t.co/sI6d5ouPha",
+            "user_refs_results": [
+              {
+                "result": {
+                  "__typename": "User",
+                  "id": "VXNlcjozNTEwNzI5OTE3",
+                  "rest_id": "3510729917",
+                  "affiliates_highlighted_label": {},
+                  "has_graduated_access": true,
+                  "is_blue_verified": true,
+                  "profile_image_shape": "Square",
+                  "legacy": {
+                    "following": false,
+                    "can_dm": true,
+                    "can_media_tag": true,
+                    "created_at": "Tue Sep 01 08:38:01 +0000 2015",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "display_url": "apify.com/store",
+                            "expanded_url": "http://apify.com/store",
+                            "url": "https://t.co/1Qz9QFEq5B",
+                            "indices": [
+                              53,
+                              76
+                            ]
+                          },
+                          {
+                            "display_url": "github.com/apify/crawlee",
+                            "expanded_url": "http://github.com/apify/crawlee",
+                            "url": "https://t.co/rRKDDTr71D",
+                            "indices": [
+                              79,
+                              102
+                            ]
+                          },
+                          {
+                            "display_url": "youtube.com/apify",
+                            "expanded_url": "http://youtube.com/apify",
+                            "url": "https://t.co/2nSklDztMo",
+                            "indices": [
+                              105,
+                              128
+                            ]
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "apify.com",
+                            "expanded_url": "https://apify.com",
+                            "url": "https://t.co/VWktFqWjsp",
+                            "indices": [
+                              0,
+                              23
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 2433,
+                    "followers_count": 4314,
+                    "friends_count": 273,
+                    "has_custom_timelines": false,
+                    "is_translator": false,
+                    "listed_count": 92,
+                    "location": "The Interwebz",
+                    "media_count": 654,
+                    "name": "Apify",
+                    "normal_followers_count": 4314,
+                    "pinned_tweet_ids_str": [
+                      "1922267282643812594"
+                    ],
+                    "possibly_sensitive": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+                    "profile_interstitial_type": "",
+                    "screen_name": "apify",
+                    "statuses_count": 2840,
+                    "translator_type": "none",
+                    "url": "https://t.co/VWktFqWjsp",
+                    "verified": false,
+                    "verified_type": "Business",
+                    "want_retweets": false,
+                    "withheld_in_countries": []
+                  },
+                  "professional": {
+                    "rest_id": "1583013496266137600",
+                    "professional_type": "Business",
+                    "category": []
+                  },
+                  "tipjar_settings": {}
+                }
+              }
+            ]
+          }
+        },
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [
+            {
+              "display_url": "apify.it/43hWA1p",
+              "expanded_url": "http://apify.it/43hWA1p",
+              "url": "https://t.co/sI6d5ouPha",
+              "indices": [
+                206,
+                229
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "isRetweet": false,
+        "isQuote": true,
+        "quote": {
+          "type": "tweet",
+          "id": "1922706611144999159",
+          "text": "🗺️  Still collecting leads from Google Maps manually? Learn how to automate it in our free webinar on May 29:\n\n🔹 Scrape business leads by keyword & location\n🔹 Export names, addresses, emails, websites, reviews, and more\n🔹 Track local competition and scale outreach\n\nRegister here → https://t.co/vHGgbfGALU",
+          "source": "Agorapulse app",
+          "retweetCount": 0,
+          "replyCount": 3,
+          "likeCount": 3,
+          "quoteCount": 1,
+          "viewCount": 438,
+          "createdAt": "Wed May 14 17:32:32 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "possiblySensitive": false,
+          "isPinned": false,
+          "author": {
+            "type": "user",
+            "userName": "apify",
+            "url": "https://x.com/apify",
+            "twitterUrl": "https://twitter.com/apify",
+            "id": "3510729917",
+            "name": "Apify",
+            "isVerified": false,
+            "verifiedType": "Business",
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+            "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+            "location": "The Interwebz",
+            "followers": 4314,
+            "following": 273,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "apify.com/store",
+                    "expanded_url": "http://apify.com/store",
+                    "url": "https://t.co/1Qz9QFEq5B",
+                    "indices": [
+                      53,
+                      76
+                    ]
+                  },
+                  {
+                    "display_url": "github.com/apify/crawlee",
+                    "expanded_url": "http://github.com/apify/crawlee",
+                    "url": "https://t.co/rRKDDTr71D",
+                    "indices": [
+                      79,
+                      102
+                    ]
+                  },
+                  {
+                    "display_url": "youtube.com/apify",
+                    "expanded_url": "http://youtube.com/apify",
+                    "url": "https://t.co/2nSklDztMo",
+                    "indices": [
+                      105,
+                      128
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "apify.com",
+                    "expanded_url": "https://apify.com",
+                    "url": "https://t.co/VWktFqWjsp",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 2433,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "mediaCount": 654,
+            "statusesCount": 2840,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1922267282643812594"
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/Crp6XVPnDk",
+                "expanded_url": "https://x.com/apify/status/1922706611144999159/photo/1",
+                "id_str": "1922706604341743618",
+                "indices": [
+                  279,
+                  302
+                ],
+                "media_key": "3_1922706604341743618",
+                "media_url_https": "https://pbs.twimg.com/media/Gq7TeD8WUAINKlD.jpg",
+                "type": "photo",
+                "url": "https://t.co/Crp6XVPnDk",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "x": 1416,
+                        "y": 188,
+                        "h": 128,
+                        "w": 128
+                      },
+                      {
+                        "x": 1404,
+                        "y": 720,
+                        "h": 164,
+                        "w": 164
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "x": 829,
+                        "y": 110,
+                        "h": 75,
+                        "w": 75
+                      },
+                      {
+                        "x": 822,
+                        "y": 421,
+                        "h": 96,
+                        "w": 96
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "x": 470,
+                        "y": 62,
+                        "h": 42,
+                        "w": 42
+                      },
+                      {
+                        "x": 466,
+                        "y": 239,
+                        "h": 54,
+                        "w": 54
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "x": 1770,
+                        "y": 235,
+                        "h": 160,
+                        "w": 160
+                      },
+                      {
+                        "x": 1755,
+                        "y": 900,
+                        "h": 205,
+                        "w": 205
+                      }
+                    ]
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1152,
+                    "w": 2048,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 383,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 1440,
+                  "width": 2560,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 2560,
+                      "h": 1434
+                    },
+                    {
+                      "x": 112,
+                      "y": 0,
+                      "w": 1440,
+                      "h": 1440
+                    },
+                    {
+                      "x": 201,
+                      "y": 0,
+                      "w": 1263,
+                      "h": 1440
+                    },
+                    {
+                      "x": 472,
+                      "y": 0,
+                      "w": 720,
+                      "h": 1440
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 2560,
+                      "h": 1440
+                    }
+                  ]
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_1922706604341743618"
+                  }
+                }
+              }
+            ]
+          },
+          "card": {},
+          "place": {},
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "apify.it/43hWA1p",
+                "expanded_url": "https://apify.it/43hWA1p",
+                "url": "https://t.co/vHGgbfGALU",
+                "indices": [
+                  282,
+                  305
+                ]
+              }
+            ],
+            "user_mentions": []
+          }
+        },
+        "media": [],
+        "isConversationControlled": false
+      },
+      {
+        "type": "tweet",
+        "id": "1924902581056205137",
+        "url": "https://x.com/apify/status/1924902581056205137",
+        "twitterUrl": "https://twitter.com/apify/status/1924902581056205137",
+        "text": "📍 Looking to join our next tech meetup or talk? Subscribe at https://t.co/RnzoyeLXqW to stay in the loop\n\nPlenty coming up across the US, Czechia &amp; Europe 🌎\n\nAdd to bookmarks. And join us soon? https://t.co/mI02EBZtwb",
+        "fullText": "📍 Looking to join our next tech meetup or talk? Subscribe at https://t.co/RnzoyeLXqW to stay in the loop\n\nPlenty coming up across the US, Czechia &amp; Europe 🌎\n\nAdd to bookmarks. And join us soon? https://t.co/mI02EBZtwb",
+        "source": "Agorapulse app",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 174,
+        "createdAt": "Tue May 20 18:58:32 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "conversationId": "1924902581056205137",
+        "possiblySensitive": false,
+        "isPinned": false,
+        "author": {
+          "type": "user",
+          "userName": "apify",
+          "url": "https://x.com/apify",
+          "twitterUrl": "https://twitter.com/apify",
+          "id": "3510729917",
+          "name": "Apify",
+          "isVerified": false,
+          "verifiedType": "Business",
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+          "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+          "location": "The Interwebz",
+          "followers": 4314,
+          "following": 273,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "apify.com/store",
+                  "expanded_url": "http://apify.com/store",
+                  "url": "https://t.co/1Qz9QFEq5B",
+                  "indices": [
+                    53,
+                    76
+                  ]
+                },
+                {
+                  "display_url": "github.com/apify/crawlee",
+                  "expanded_url": "http://github.com/apify/crawlee",
+                  "url": "https://t.co/rRKDDTr71D",
+                  "indices": [
+                    79,
+                    102
+                  ]
+                },
+                {
+                  "display_url": "youtube.com/apify",
+                  "expanded_url": "http://youtube.com/apify",
+                  "url": "https://t.co/2nSklDztMo",
+                  "indices": [
+                    105,
+                    128
+                  ]
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "apify.com",
+                  "expanded_url": "https://apify.com",
+                  "url": "https://t.co/VWktFqWjsp",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 2433,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "mediaCount": 654,
+          "statusesCount": 2840,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1922267282643812594"
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/mI02EBZtwb",
+              "expanded_url": "https://x.com/apify/status/1924902581056205137/photo/1",
+              "id_str": "1924902571778433024",
+              "indices": [
+                198,
+                221
+              ],
+              "media_key": "3_1924902571778433024",
+              "media_url_https": "https://pbs.twimg.com/media/GragsMIW4AAWxWN.jpg",
+              "type": "photo",
+              "url": "https://t.co/mI02EBZtwb",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 675,
+                  "w": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 383,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 1800,
+                "width": 3200,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 3200,
+                    "h": 1792
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1800,
+                    "h": 1800
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1579,
+                    "h": 1800
+                  },
+                  {
+                    "x": 110,
+                    "y": 0,
+                    "w": 900,
+                    "h": 1800
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 3200,
+                    "h": 1800
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "3_1924902571778433024"
+                }
+              }
+            }
+          ]
+        },
+        "card": {},
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "media": [
+            {
+              "display_url": "pic.x.com/mI02EBZtwb",
+              "expanded_url": "https://x.com/apify/status/1924902581056205137/photo/1",
+              "id_str": "1924902571778433024",
+              "indices": [
+                198,
+                221
+              ],
+              "media_key": "3_1924902571778433024",
+              "media_url_https": "https://pbs.twimg.com/media/GragsMIW4AAWxWN.jpg",
+              "type": "photo",
+              "url": "https://t.co/mI02EBZtwb",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 675,
+                  "w": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 383,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 1800,
+                "width": 3200,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 3200,
+                    "h": 1792
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1800,
+                    "h": 1800
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1579,
+                    "h": 1800
+                  },
+                  {
+                    "x": 110,
+                    "y": 0,
+                    "w": 900,
+                    "h": 1800
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 3200,
+                    "h": 1800
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "3_1924902571778433024"
+                }
+              }
+            }
+          ],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [
+            {
+              "display_url": "lu.ma/apify",
+              "expanded_url": "http://lu.ma/apify",
+              "url": "https://t.co/RnzoyeLXqW",
+              "indices": [
+                61,
+                84
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "isRetweet": false,
+        "isQuote": false,
+        "media": [
+          "https://pbs.twimg.com/media/GragsMIW4AAWxWN.jpg"
+        ],
+        "isConversationControlled": false
+      },
+      {
+        "type": "tweet",
+        "id": "1924181376649036177",
+        "url": "https://x.com/apify/status/1924181376649036177",
+        "twitterUrl": "https://twitter.com/apify/status/1924181376649036177",
+        "text": "RT @victor_explore: Automate web scraping without writing a single line of code. This video explains:\n\n- Connecting Apify (web scraping mar…",
+        "fullText": "RT @victor_explore: Automate web scraping without writing a single line of code. This video explains:\n\n- Connecting Apify (web scraping mar…",
+        "source": "Twitter Web App",
+        "retweetCount": 4,
+        "replyCount": 1,
+        "likeCount": 30,
+        "quoteCount": 1,
+        "viewCount": 82,
+        "createdAt": "Sun May 18 19:12:44 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 32,
+        "isReply": false,
+        "conversationId": "1924181376649036177",
+        "isPinned": false,
+        "author": {
+          "type": "user",
+          "userName": "apify",
+          "url": "https://x.com/apify",
+          "twitterUrl": "https://twitter.com/apify",
+          "id": "3510729917",
+          "name": "Apify",
+          "isVerified": false,
+          "verifiedType": "Business",
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+          "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+          "location": "The Interwebz",
+          "followers": 4314,
+          "following": 273,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "apify.com/store",
+                  "expanded_url": "http://apify.com/store",
+                  "url": "https://t.co/1Qz9QFEq5B",
+                  "indices": [
+                    53,
+                    76
+                  ]
+                },
+                {
+                  "display_url": "github.com/apify/crawlee",
+                  "expanded_url": "http://github.com/apify/crawlee",
+                  "url": "https://t.co/rRKDDTr71D",
+                  "indices": [
+                    79,
+                    102
+                  ]
+                },
+                {
+                  "display_url": "youtube.com/apify",
+                  "expanded_url": "http://youtube.com/apify",
+                  "url": "https://t.co/2nSklDztMo",
+                  "indices": [
+                    105,
+                    128
+                  ]
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "apify.com",
+                  "expanded_url": "https://apify.com",
+                  "url": "https://t.co/VWktFqWjsp",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 2433,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "mediaCount": 654,
+          "statusesCount": 2840,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1922267282643812594"
+          ]
+        },
+        "extendedEntities": {},
+        "card": {},
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1366752206058180608",
+              "name": "Victor",
+              "screen_name": "victor_explore",
+              "indices": [
+                3,
+                18
+              ]
+            }
+          ]
+        },
+        "isRetweet": true,
+        "retweet": {
+          "type": "tweet",
+          "id": "1923577060804411605",
+          "text": "Automate web scraping without writing a single line of code. This video explains:\n\n- Connecting Apify (web scraping marketplace) with n8n (automation tool)\n- Setting up TikTok and Google Maps scrapers step-by-step\n- Handling asynchronous scraping workflows\n- Implementing proper wait times between requests\n- Using polling techniques for variable-length jobs\n- Extracting structured data ready for further processing",
+          "source": "Twitter Web App",
+          "retweetCount": 4,
+          "replyCount": 1,
+          "likeCount": 30,
+          "quoteCount": 1,
+          "viewCount": 82,
+          "createdAt": "Sat May 17 03:11:24 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 32,
+          "possiblySensitive": false,
+          "isPinned": false,
+          "author": {
+            "type": "user",
+            "userName": "victor_explore",
+            "url": "https://x.com/victor_explore",
+            "twitterUrl": "https://twitter.com/victor_explore",
+            "id": "1366752206058180608",
+            "name": "Victor",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1891322636409651200/ZaOX3e5t_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1366752206058180608/1739761432",
+            "description": "Alum @iiscbangalore | Building AI Agents at https://t.co/OCwvNyURlW",
+            "location": "",
+            "followers": 13574,
+            "following": 1532,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue Mar 02 14:08:28 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "shop.victorexplore.com",
+                    "expanded_url": "https://shop.victorexplore.com/",
+                    "url": "https://t.co/OCwvNyURlW",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/Victor_explore",
+                    "expanded_url": "https://linktr.ee/Victor_explore",
+                    "url": "https://t.co/SKw4gYT8zR",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 5625,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 4661,
+            "statusesCount": 26668,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1833710065033118033"
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/znUq893EDF",
+                "expanded_url": "https://x.com/victor_explore/status/1923577060804411605/photo/1",
+                "id_str": "1923576705655955456",
+                "indices": [
+                  279,
+                  302
+                ],
+                "media_key": "3_1923576705655955456",
+                "media_url_https": "https://pbs.twimg.com/media/GrHq0n7W4AA3FGN.jpg",
+                "type": "photo",
+                "url": "https://t.co/znUq893EDF",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "x": 1021,
+                        "y": 558,
+                        "h": 49,
+                        "w": 49
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "x": 1021,
+                        "y": 558,
+                        "h": 49,
+                        "w": 49
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "x": 593,
+                        "y": 324,
+                        "h": 28,
+                        "w": 28
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "x": 1021,
+                        "y": 558,
+                        "h": 49,
+                        "w": 49
+                      }
+                    ]
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 794,
+                    "w": 1169,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 794,
+                    "w": 1169,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 462,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 794,
+                  "width": 1169,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 139,
+                      "w": 1169,
+                      "h": 655
+                    },
+                    {
+                      "x": 375,
+                      "y": 0,
+                      "w": 794,
+                      "h": 794
+                    },
+                    {
+                      "x": 473,
+                      "y": 0,
+                      "w": 696,
+                      "h": 794
+                    },
+                    {
+                      "x": 766,
+                      "y": 0,
+                      "w": 397,
+                      "h": 794
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1169,
+                      "h": 794
+                    }
+                  ]
+                },
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_1923576705655955456"
+                  }
+                }
+              }
+            ]
+          },
+          "card": {},
+          "place": {},
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+          }
+        },
+        "isQuote": false,
+        "media": [],
+        "isConversationControlled": false
+      },
+      {
+        "type": "tweet",
+        "id": "1924087600576409691",
+        "url": "https://x.com/apify/status/1924087600576409691",
+        "twitterUrl": "https://twitter.com/apify/status/1924087600576409691",
+        "text": "Good automation magic? We’ve got Actors to plug into MCP for that. 😎\n\nThanks for the shoutout, James! https://t.co/bDNajQVaoq",
+        "fullText": "Good automation magic? We’ve got Actors to plug into MCP for that. 😎\n\nThanks for the shoutout, James! https://t.co/bDNajQVaoq",
+        "source": "Agorapulse app",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "viewCount": 234,
+        "createdAt": "Sun May 18 13:00:06 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "conversationId": "1924087600576409691",
+        "possiblySensitive": false,
+        "isPinned": false,
+        "author": {
+          "type": "user",
+          "userName": "apify",
+          "url": "https://x.com/apify",
+          "twitterUrl": "https://twitter.com/apify",
+          "id": "3510729917",
+          "name": "Apify",
+          "isVerified": false,
+          "verifiedType": "Business",
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1874002751337984000/GkOQM3YQ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3510729917/1733324256",
+          "description": "A full-stack web scraping and automation platform. 🛒 https://t.co/1Qz9QFEq5B 🌟 https://t.co/rRKDDTr71D 📺 https://t.co/2nSklDztMo",
+          "location": "The Interwebz",
+          "followers": 4314,
+          "following": 273,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Sep 01 08:38:01 +0000 2015",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "apify.com/store",
+                  "expanded_url": "http://apify.com/store",
+                  "url": "https://t.co/1Qz9QFEq5B",
+                  "indices": [
+                    53,
+                    76
+                  ]
+                },
+                {
+                  "display_url": "github.com/apify/crawlee",
+                  "expanded_url": "http://github.com/apify/crawlee",
+                  "url": "https://t.co/rRKDDTr71D",
+                  "indices": [
+                    79,
+                    102
+                  ]
+                },
+                {
+                  "display_url": "youtube.com/apify",
+                  "expanded_url": "http://youtube.com/apify",
+                  "url": "https://t.co/2nSklDztMo",
+                  "indices": [
+                    105,
+                    128
+                  ]
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "apify.com",
+                  "expanded_url": "https://apify.com",
+                  "url": "https://t.co/VWktFqWjsp",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 2433,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "mediaCount": 654,
+          "statusesCount": 2840,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1922267282643812594"
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/bDNajQVaoq",
+              "expanded_url": "https://x.com/apify/status/1924087600576409691/photo/1",
+              "id_str": "1924087595526414336",
+              "indices": [
+                102,
+                125
+              ],
+              "media_key": "3_1924087595526414336",
+              "media_url_https": "https://pbs.twimg.com/media/GrO7eVAWYAATEXU.jpg",
+              "type": "photo",
+              "url": "https://t.co/bDNajQVaoq",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "x": 478,
+                      "y": 640,
+                      "h": 54,
+                      "w": 54
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "x": 478,
+                      "y": 640,
+                      "h": 54,
+                      "w": 54
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "x": 300,
+                      "y": 402,
+                      "h": 34,
+                      "w": 34
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "x": 478,
+                      "y": 640,
+                      "h": 54,
+                      "w": 54
+                    }
+                  ]
+                }
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 1080,
+                  "w": 1080,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 680,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 1080,
+                "width": 1080,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 427,
+                    "w": 1080,
+                    "h": 605
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1080,
+                    "h": 1080
+                  },
+                  {
+                    "x": 67,
+                    "y": 0,
+                    "w": 947,
+                    "h": 1080
+                  },
+                  {
+                    "x": 270,
+                    "y": 0,
+                    "w": 540,
+                    "h": 1080
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1080,
+                    "h": 1080
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "3_1924087595526414336"
+                }
+              }
+            }
+          ]
+        },
+        "card": {},
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "media": [
+            {
+              "display_url": "pic.x.com/bDNajQVaoq",
+              "expanded_url": "https://x.com/apify/status/1924087600576409691/photo/1",
+              "id_str": "1924087595526414336",
+              "indices": [
+                102,
+                125
+              ],
+              "media_key": "3_1924087595526414336",
+              "media_url_https": "https://pbs.twimg.com/media/GrO7eVAWYAATEXU.jpg",
+              "type": "photo",
+              "url": "https://t.co/bDNajQVaoq",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "x": 478,
+                      "y": 640,
+                      "h": 54,
+                      "w": 54
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "x": 478,
+                      "y": 640,
+                      "h": 54,
+                      "w": 54
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "x": 300,
+                      "y": 402,
+                      "h": 34,
+                      "w": 34
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "x": 478,
+                      "y": 640,
+                      "h": 54,
+                      "w": 54
+                    }
+                  ]
+                }
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 1080,
+                  "w": 1080,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 680,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 1080,
+                "width": 1080,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 427,
+                    "w": 1080,
+                    "h": 605
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1080,
+                    "h": 1080
+                  },
+                  {
+                    "x": 67,
+                    "y": 0,
+                    "w": 947,
+                    "h": 1080
+                  },
+                  {
+                    "x": 270,
+                    "y": 0,
+                    "w": 540,
+                    "h": 1080
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "w": 1080,
+                    "h": 1080
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "3_1924087595526414336"
+                }
+              }
+            }
+          ],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "isRetweet": false,
+        "isQuote": false,
+        "media": [
+          "https://pbs.twimg.com/media/GrO7eVAWYAATEXU.jpg"
+        ],
+        "isConversationControlled": false
+      }
+    ],
+    "items_count": 5,
+    "duration_secs": 9.44,
+    "cost": 0.0,
+    "error_message": null,
+    "success": true,
+    "metadata": {
+      "build_id": "8G5TAuJgGKjp6W4E7",
+      "compute_units": null,
+      "usage_bytes": null,
+      "platform": null
+    }
+  }
+}

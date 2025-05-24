@@ -1,0 +1,295 @@
+# Product Requirements Document: Apify Actors Integration for Prospect Analysis
+
+## Project Overview
+
+Create a Python-based Apify actors integration system for generating detailed prospect/lead reports. The system will orchestrate multiple Apify actors to gather comprehensive data from various sources (LinkedIn, Facebook, Twitter/X, company databases) and output structured JSON reports.
+
+## Business Objectives
+
+1. **Automated Prospect Research**: Streamline the process of gathering comprehensive prospect data from multiple sources
+2. **Cost-Effective Data Collection**: Optimize costs across multiple Apify actors while maximizing data quality
+3. **Standardized Output**: Provide consistent, structured JSON reports for all prospect analyses
+4. **Scalable Architecture**: Support both single prospect analysis and batch processing
+5. **API-First Design**: Create RESTful APIs with comprehensive Swagger documentation
+
+## Target Users
+
+- Sales teams conducting prospect research
+- Marketing teams building lead profiles
+- Business development professionals
+- Data analysts requiring comprehensive prospect insights
+
+## Core Features
+
+### 1. Multi-Source Data Collection
+- **LinkedIn Data**: Profile information, posts, company data, connections
+- **Social Media**: Facebook posts, Twitter/X content and engagement
+- **Company Data**: Financial information, industry classification, employee metrics
+- **News & Updates**: Recent company news and developments
+
+### 2. Actor Orchestration System
+- **Parallel Execution**: Run compatible actors simultaneously for efficiency
+- **Dependency Management**: Execute actors in optimal order based on data dependencies
+- **Error Handling**: Robust retry logic and fallback mechanisms
+- **Rate Limiting**: Respect API limits and prevent account suspension
+
+### 3. Cost Management
+- **Budget Controls**: Set maximum spend limits per analysis
+- **Cost Estimation**: Provide cost estimates before execution
+- **Usage Tracking**: Detailed cost breakdown per actor and data source
+- **Optimization**: Suggest cost-effective actor combinations
+
+### 4. Data Quality & Validation
+- **Input Validation**: Ensure all required inputs are properly formatted
+- **Output Standardization**: Consistent JSON schema across all reports
+- **Data Verification**: Validate extracted data for accuracy and completeness
+- **Confidence Scoring**: Assign confidence scores to different data points
+
+## Technical Requirements
+
+### Architecture
+- **Language**: Python 3.9+
+- **Framework**: FastAPI for REST APIs
+- **Async Support**: Full async/await implementation for performance
+- **Database**: PostgreSQL for storing analysis results and metadata
+- **Caching**: Redis for caching frequently accessed data
+
+### Apify Actors Integration
+
+#### LinkedIn Actors
+1. **Profile Bulk Scraper** (LpVuK3Zozwuipa5bp)
+   - Cost: $4/1k profiles
+   - Input: LinkedIn profile URLs
+   - Output: Profile data, experience, education, skills
+
+2. **Posts Bulk Scraper** (A3cAPGpwBEG8RJwse)
+   - Cost: $2/1k posts
+   - Input: Profile/company URLs
+   - Output: Recent posts, engagement metrics
+
+3. **Company Profile Scraper** (3rgDeYgLhr6XrVnjs)
+   - Cost: $10 + usage
+   - Input: Company LinkedIn URLs
+   - Output: Company info, employee count, industry data
+
+#### Social Media Actors
+1. **Facebook Posts** (KoJrdxJCTtpon81KY)
+   - Cost: $35 + usage
+   - Input: Facebook page URLs
+   - Output: Posts, engagement, audience insights
+
+2. **Twitter/X Scraper** (61RPP7dywgiy0JPD0)
+   - Cost: $0.40/1k tweets
+   - Input: Twitter handles or URLs
+   - Output: Tweets, engagement, follower data
+
+#### Company Data Actors
+1. **Erasmus+ Organisation** (5ms6D6gKCnJhZN61e)
+   - Cost: Pay for usage
+   - Input: Organization identifiers
+   - Output: EU funding data, project participation
+
+2. **Dun & Bradstreet** (RIq8Fe9BdxSR4GUXY)
+   - Cost: $30 + usage
+   - Input: Company identifiers
+   - Output: Financial data, credit ratings, industry classification
+
+3. **Zoominfo** (C6OyLbP5ixnfc5lYe)
+   - Cost: $20
+   - Input: Company/contact information
+   - Output: Contact data, company insights, technology stack
+
+4. **Crunchbase** (BBfgvSNWcySEk1jQO)
+   - Cost: $30/month + usage
+   - Input: Company names/URLs
+   - Output: Funding data, investors, company timeline
+
+### API Design
+
+#### Core Endpoints
+1. **POST /api/v1/prospect/analyze**
+   - Single prospect analysis
+   - Input: Prospect data and analysis parameters
+   - Output: Comprehensive JSON report
+
+2. **POST /api/v1/prospect/batch**
+   - Batch prospect analysis
+   - Input: Array of prospects and global parameters
+   - Output: Array of analysis results
+
+3. **GET /api/v1/prospect/{prospect_id}**
+   - Retrieve existing analysis
+   - Output: Cached analysis result
+
+4. **POST /api/v1/cost/estimate**
+   - Cost estimation for analysis
+   - Input: Prospect data and analysis parameters
+   - Output: Estimated costs per actor
+
+5. **GET /api/v1/actors**
+   - List available actors and their configurations
+   - Output: Actor metadata, costs, capabilities
+
+6. **GET /api/v1/health**
+   - System health check
+   - Output: Service status, actor availability
+
+### Data Models
+
+#### Prospect Input
+```json
+{
+  "name": "string",
+  "company": "string",
+  "linkedin_url": "string (optional)",
+  "company_website": "string (optional)",
+  "twitter_handle": "string (optional)",
+  "facebook_page": "string (optional)",
+  "email": "string (optional)",
+  "additional_identifiers": {
+    "crunchbase_url": "string (optional)",
+    "zoominfo_id": "string (optional)"
+  }
+}
+```
+
+#### Analysis Parameters
+```json
+{
+  "include_linkedin": true,
+  "include_social_media": true,
+  "include_company_data": true,
+  "max_budget": 50.0,
+  "priority": "speed|cost|quality",
+  "data_freshness": "latest|cached_ok",
+  "custom_actor_configs": {}
+}
+```
+
+#### Output Schema
+```json
+{
+  "prospect_id": "uuid",
+  "timestamp": "ISO 8601",
+  "input_data": {},
+  "linkedin_data": {
+    "profile": {},
+    "posts": [],
+    "company": {}
+  },
+  "social_media_data": {
+    "facebook": {},
+    "twitter": {}
+  },
+  "company_data": {
+    "financial": {},
+    "funding": {},
+    "industry": {},
+    "employees": {}
+  },
+  "analysis_summary": {
+    "key_insights": [],
+    "risk_factors": [],
+    "opportunities": []
+  },
+  "cost_breakdown": {
+    "total": 0.00,
+    "per_actor": {}
+  },
+  "data_sources": [],
+  "confidence_scores": {},
+  "execution_metadata": {
+    "duration": "seconds",
+    "actors_used": [],
+    "success_rate": "percentage"
+  }
+}
+```
+
+## Implementation Phases
+
+### Phase 1: Foundation (Week 1-2)
+- Project structure setup
+- Base actor implementation
+- Apify client integration
+- Basic error handling and logging
+
+### Phase 2: Core Actors (Week 3-4)
+- LinkedIn actors implementation
+- Social media actors integration
+- Basic orchestration system
+- Cost tracking implementation
+
+### Phase 3: Company Data & Advanced Features (Week 5-6)
+- Company data actors
+- Advanced orchestration with parallel execution
+- Comprehensive error handling and retry logic
+- Data validation and quality scoring
+
+### Phase 4: API & Documentation (Week 7-8)
+- FastAPI implementation
+- Swagger documentation
+- Authentication and rate limiting
+- Performance optimization
+
+### Phase 5: Testing & Deployment (Week 9-10)
+- Comprehensive test suite
+- Integration testing
+- Performance benchmarking
+- Deployment configuration
+
+## Success Criteria
+
+### Performance Metrics
+- **Response Time**: < 30 seconds for standard prospect analysis
+- **Success Rate**: > 95% successful data extraction
+- **Cost Efficiency**: Optimize to achieve target cost per prospect
+- **Scalability**: Support 100+ concurrent analyses
+
+### Quality Metrics
+- **Data Accuracy**: > 95% accuracy in extracted data
+- **Coverage**: Extract data from at least 80% of available sources
+- **Consistency**: Standardized output format across all analyses
+
+### User Experience
+- **API Response**: Clear, well-documented API responses
+- **Error Messages**: Descriptive error messages with actionable guidance
+- **Documentation**: Comprehensive API documentation with examples
+
+## Risk Mitigation
+
+### Technical Risks
+- **Actor Availability**: Implement fallback mechanisms for unavailable actors
+- **Rate Limiting**: Respect API limits with exponential backoff
+- **Cost Overruns**: Implement strict budget controls and monitoring
+
+### Business Risks
+- **Data Quality**: Implement validation and confidence scoring
+- **Compliance**: Ensure GDPR and data privacy compliance
+- **Scalability**: Design for horizontal scaling from the start
+
+## Monitoring & Analytics
+
+### Key Metrics
+- Actor execution times and success rates
+- Cost per prospect analysis
+- Data quality scores
+- API response times and error rates
+- User engagement and usage patterns
+
+### Alerting
+- Failed actor executions
+- Budget threshold breaches
+- API error rate spikes
+- Performance degradation
+
+## Future Enhancements
+
+### Potential Additions
+- Real-time data updates
+- Machine learning for data quality scoring
+- Additional data sources integration
+- Advanced analytics and insights
+- White-label solution for enterprise clients
+
+This PRD serves as the foundation for building a robust, scalable, and cost-effective prospect analysis system using Apify actors. 

@@ -1,0 +1,20 @@
+{
+  "timestamp": "20250523_202857",
+  "tests_conducted": [
+    "twitter_handles_only",
+    "search_terms_only",
+    "both_handles_and_search"
+  ],
+  "actor_id": "61RPP7dywgiy0JPD0",
+  "input_format": {
+    "twitterHandles": [
+      "list of handles"
+    ],
+    "searchTerms": [
+      "list of search terms"
+    ],
+    "maxItems": "number",
+    "sort": "Latest|Popular",
+    "tweetLanguage": "en|es|etc"
+  }
+}

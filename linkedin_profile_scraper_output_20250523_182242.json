@@ -1,0 +1,198 @@
+{
+  "timestamp": "2025-05-23T18:22:42.681383",
+  "input": {
+    "profileUrls": [
+      "https://www.linkedin.com/in/williamhgates/"
+    ],
+    "includeSkills": true,
+    "includeEducation": true,
+    "includeExperience": true,
+    "includeRecommendations": false,
+    "includeCourses": false
+  },
+  "cost_estimate": {
+    "estimated_cost": 0.002,
+    "compute_units": 0.05,
+    "cost_breakdown": {
+      "base_cost": 0.002,
+      "profiles": 1,
+      "cost_per_profile": 0.002
+    }
+  },
+  "result": {
+    "run": {
+      "id": "jZ9xGFSVtXdoK6xDw",
+      "actId": "LpVuK3Zozwuipa5bp",
+      "userId": "FzQcA00biua70jwXV",
+      "startedAt": "2025-05-23T16:22:34.728000+00:00",
+      "finishedAt": "2025-05-23T16:22:42.404000+00:00",
+      "status": "SUCCEEDED",
+      "meta": {
+        "origin": "API",
+        "userAgent": "ApifyClient/1.10.0 (darwin; Python/3.13.3); isAtHome/False"
+      },
+      "stats": {
+        "inputBodyLen": 179,
+        "migrationCount": 0,
+        "rebootCount": 0,
+        "restartCount": 0,
+        "durationMillis": 7475,
+        "resurrectCount": 0,
+        "runTimeSecs": 7.475,
+        "metamorph": 0,
+        "computeUnits": 0.0005190972222222222,
+        "memAvgBytes": 42502066.93423568,
+        "memMaxBytes": 44249088,
+        "memCurrentBytes": 0,
+        "cpuAvgUsage": 0.009976398042730329,
+        "cpuMaxUsage": 18.6127374301676,
+        "cpuCurrentUsage": 0,
+        "netRxBytes": 12690,
+        "netTxBytes": 5476
+      },
+      "options": {
+        "build": "latest",
+        "timeoutSecs": 600,
+        "memoryMbytes": 256,
+        "maxItems": 9721,
+        "diskMbytes": 512
+      },
+      "buildId": "cbSxneZ1uzDtICoK2",
+      "exitCode": 0,
+      "defaultKeyValueStoreId": "c0jJ9bpMXQ6VcI0bG",
+      "defaultDatasetId": "U5Taxj4P91okdrRpD",
+      "defaultRequestQueueId": "smni8CK2hKIduDQhb",
+      "pricingInfo": {
+        "pricingModel": "PRICE_PER_DATASET_ITEM",
+        "pricePerUnitUsd": 0.004,
+        "unitName": "Profile",
+        "createdAt": "2025-04-23T22:15:49.070000+00:00",
+        "startedAt": "2025-04-23T22:15:49.070000+00:00",
+        "apifyMarginPercentage": 0.2
+      },
+      "generalAccess": "FOLLOW_USER_SETTING",
+      "buildNumber": "0.0.42",
+      "containerUrl": "https://g9s2mj6idpua.runs.apify.net",
+      "consoleUrl": "https://console.apify.com/view/runs/jZ9xGFSVtXdoK6xDw"
+    },
+    "items": [
+      {
+        "profile": {
+          "id": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+          "publicIdentifier": "williamhgates",
+          "fullName": "Bill Gates",
+          "firstName": "Bill",
+          "lastName": "Gates",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+          "location": "Seattle, WA",
+          "connectionsCount": 8,
+          "followerCount": 37918698,
+          "linkedinUrl": "https://www.linkedin.com/in/williamhgates",
+          "photo": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1753315200&v=beta&t=ot0V86_HfZ7Jk2m6u9RV-vORolb2cJ6Skj5T1FoGlso",
+          "websites": [
+            "https://gatesnot.es/tgn"
+          ]
+        },
+        "experience": [
+          {
+            "location": null,
+            "companyLinkedinUrl": "https://www.linkedin.com/company/gates-foundation/",
+            "companyId": "8736",
+            "companyUniversalName": "gates-foundation",
+            "companyName": "Gates Foundation",
+            "duration": "25 yrs 5 mos",
+            "position": "Co-chair",
+            "description": null,
+            "startDate": {
+              "year": 2000,
+              "text": "2000"
+            },
+            "endDate": {
+              "text": "Present"
+            }
+          },
+          {
+            "location": null,
+            "companyLinkedinUrl": "https://www.linkedin.com/company/19141006/",
+            "companyId": "19141006",
+            "companyName": "Breakthrough Energy",
+            "duration": "10 yrs 5 mos",
+            "position": "Founder",
+            "description": null,
+            "startDate": {
+              "year": 2015,
+              "text": "2015"
+            },
+            "endDate": {
+              "text": "Present"
+            }
+          },
+          {
+            "location": null,
+            "companyLinkedinUrl": "https://www.linkedin.com/company/1035/",
+            "companyId": "1035",
+            "companyName": "Microsoft",
+            "duration": "50 yrs 5 mos",
+            "position": "Co-founder",
+            "description": null,
+            "startDate": {
+              "year": 1975,
+              "text": "1975"
+            },
+            "endDate": {
+              "text": "Present"
+            }
+          }
+        ],
+        "education": [
+          {
+            "title": "Harvard University",
+            "period": "1973 - 1975",
+            "link": "https://www.linkedin.com/company/1646/",
+            "startDate": {
+              "year": 1973,
+              "text": "1973"
+            },
+            "endDate": {
+              "year": 1975,
+              "text": "1975"
+            }
+          },
+          {
+            "title": "Lakeside School",
+            "link": "https://www.linkedin.com/company/30288/"
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "languages": [],
+        "projects": [],
+        "publications": [],
+        "recommendations": [],
+        "featured": {
+          "images": [
+            "https://media.licdn.com/dms/image/sync/v2/D5627AQHipqtAeMwfYA/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1717509426427?e=1748624400&v=beta&t=njFNFxfcUVzRjllPwC1QE4T4RC0rCo5CEvh3mpugr_o"
+          ],
+          "link": "https://www.linkedin.com/feed/update/urn:li:activity:7203756961220165633?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7203756961220165633%29",
+          "title": "My memoir Source Code comes out next year",
+          "subtitle": "gatesnotes.com"
+        },
+        "meta": {
+          "status": 200,
+          "retries": 0,
+          "requestId": "788fa97f-7733-477e-b5ba-1bbc1b1f1f58",
+          "entityId": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        }
+      }
+    ],
+    "success": true
+  },
+  "summary": {
+    "profiles_found": 1,
+    "success": true,
+    "run_id": "jZ9xGFSVtXdoK6xDw",
+    "compute_units": null,
+    "status": "SUCCEEDED"
+  }
+}

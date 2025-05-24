@@ -1,0 +1,16 @@
+{
+  "test_case": {
+    "name": "Multiple Users",
+    "method": "multiple",
+    "usernames": [
+      "elonmusk",
+      "@sundarpichai"
+    ],
+    "max_tweets_per_user": 2,
+    "include_replies": false,
+    "include_retweets": false
+  },
+  "error": "'ActorRunResult' object has no attribute 'cost_usd'",
+  "error_type": "AttributeError",
+  "timestamp": "20250523_202028"
+}

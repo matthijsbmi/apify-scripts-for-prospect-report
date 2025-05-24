@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "run_id": "UpAa35kxMpVH4FGeO",
+    "actor_id": "sanjeta/linkedin-company-profile-scraper",
+    "status": "SUCCEEDED",
+    "started_at": "2025-05-24T10:34:34.371000Z",
+    "finished_at": "2025-05-24T10:34:39.369000Z",
+    "items": [
+      {
+        "company_name": "Apify",
+        "universal_name_id": "apifytech",
+        "logo_image_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEyOuiuTYXsaQ/company-logo_200_200/company-logo_200_200/0/1708526513146/apifytech_logo?e=2147483647&v=beta&t=zdmazdxQU3WFi0GsS_A1yHUuX8MZy-FkaHVAJAYCQNw",
+        "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D4E3DAQHr8Vokak8s5w/image-scale_191_1128/image-scale_191_1128/0/1708521825133/apifytech_cover?e=2147483647&v=beta&t=g7DI5wrfWTHqECu57GJn0ZqA8VVeR2-aXCdxZcBVUHU",
+        "linkedin_internal_id": "",
+        "industry": "Software Development",
+        "location": "",
+        "follower_count": "12,736",
+        "tagline": "On a mission to make the web more open and programmable.",
+        "company_size_on_linkedin": 138,
+        "about": "Apify is a full-stack web scraping and browser automation platform that lets you extract data from websites and automate workflows on the web. \n\nWith Apify, you can turn any website into an API!",
+        "website": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fapify%2Ecom%2F&urlhash=kGKH&trk=about_website",
+        "industries": "",
+        "company_size": "51-200 employees",
+        "headquarters": "Prague",
+        "type": "Privately Held",
+        "founded": "2015",
+        "specialties": "",
+        "locations": [
+          {
+            "is_hq": true,
+            "office_address_line_1": "Vodickova 704/36",
+            "office_address_line_2": "Prague, 11100, CZ",
+            "office_location_link": "https://www.bing.com/maps?where=Vodickova+704%2F36+Prague+11100+CZ&trk=org-locations_url"
+          },
+          {
+            "is_hq": false,
+            "office_address_line_1": "San Francisco, CA, US",
+            "office_address_line_2": "",
+            "office_location_link": "https://www.bing.com/maps?where=San+Francisco+CA+US&trk=org-locations_url"
+          }
+        ],
+        "employees": [
+          {
+            "employee_photo": "https://media.licdn.com/dms/image/v2/C4E03AQHmtgVOIg7GeQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1638120354738?e=2147483647&v=beta&t=-JjUdsDqMPboRwz07ODwvK0971jMiFrZlt38Tl8ipz0",
+            "employee_name": "Honza Javorek",
+            "employee_position": "Tvořím junior.guru, které pomáhá juniorním programátorům",
+            "employee_profile_url": "https://cz.linkedin.com/in/honzajavorek?trk=org-employees"
+          },
+          {
+            "employee_photo": "https://media.licdn.com/dms/image/v2/D4E03AQGVYzvGHp9zhw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1688982177437?e=2147483647&v=beta&t=RZOrroNiBfyCRXLYrJGiJfMIhpA9OO-MjINurO_LwIU",
+            "employee_name": "Jan Čurn",
+            "employee_position": "CEO at Apify | Building a full-stack platform for web scraping and data for AI.",
+            "employee_profile_url": "https://www.linkedin.com/in/jancurn?trk=org-employees"
+          },
+          {
+            "employee_photo": "https://media.licdn.com/dms/image/v2/C4E03AQFbR0qzQd-6eA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516309144835?e=2147483647&v=beta&t=7Y2jjcvg3MWTreeC2ojO7B5pmmvToO2r3S5zCGylqnA",
+            "employee_name": "Jakub Balada",
+            "employee_position": "Co-founder at Apify",
+            "employee_profile_url": "https://cz.linkedin.com/in/jbalada?trk=org-employees"
+          },
+          {
+            "employee_photo": "https://media.licdn.com/dms/image/v2/C4D03AQFPrqNGPz955Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1550514582695?e=2147483647&v=beta&t=q7DFoNsNAdiLkAS3ZjJGs0HkzFcOUHD2DM9jhpKVSXE",
+            "employee_name": "Adam Kliment",
+            "employee_position": "VP of Developer Experience @ Apify | Actor Development Advocate | Developer-Oriented Product Developer and Strategist | API industry veteran | Open…",
+            "employee_profile_url": "https://cz.linkedin.com/in/adamkliment?trk=org-employees"
+          }
+        ],
+        "updates": [
+          {
+            "text": "#PragueCrawl2025 talks are live. All of them. 🎥\n\nCouldn't come? Catch all Prague Crawl talks on YouTube. If you're figuring out how to pair scraping with AI, bypass blocks, run browser automation, or orchestrate flows with MCP → this is your watchlist.\n\n👉 Check out the full playlist in the comments.",
+            "articlePostedDate": "1w",
+            "totalLikes": "23"
+          },
+          {
+            "text": "We’re heading to Bologna! 🇮🇹🍝\n\nWe're joining the Python community for PyCon Italia 2025! Catch Apify's Saurav Jain on May 29 at 11:05 am CET, speaking on:\n\n• Building Actors with Python\n• Deploying with Apify CLI\n• Turning it into a repeatable income\n\nPlus: We’ll be there all week with the Apify booth, find us in the main sponsor area! Stop by to chat, grab some swag, and enter our giveaway (yes, there might be AirPods) 🧡\n\nMore about PyCon Italia in the comments ↓\n#PyConIT2025",
+            "articlePostedDate": "23h\n  \n                    \n                    \n                      Edited",
+            "totalLikes": "4"
+          },
+          {
+            "text": "How I Use WhatsApp DMs + Website Scraping to Book Calls with Med Spas in Dubai\nI’ve been running a direct outreach campaign targeting med spas in Dubai — not using ads or cold email, but smart, personalized WhatsApp DMs.\nHere’s the full process — now with website scraping for deeper personalization 🔥👇\n✅ Step 1: Scrape Med Spas from Google Maps Using Apify\n I start by collecting:\nSpa name\nGoogle rating\nOne standout customer review\nWebsite link\n✅ Step 2: Website Scraping for Real Personalization\n I use lightweight scraping tools to pull specific details from their website, such as:\nservices \nFounder’s name\nAwards or certifications\nBlog or latest offer\nThis gives me extra personalization ammo beyond Google reviews.\n✅ Step 3: Customized Message Example\n🟣 Business: Sweet Medical Spa and Massage\n 🟣 Rating: 38\n 🟣 Review:\n \"The calming atmosphere melted away my stress... massage was heavenly.\"\n🟣 Website says:\n 💡 \"Voted Dubai's top choice for full-body stress relief\"\n🟣 Final Message:\n“hi sweet medical spa 🌸\n just read this: ‘the calming atmosphere melted away my stress… massage was heavenly’ — and saw you're voted dubai’s top spot for full-body stress relief. 👏\ni’m sure you’re treating your clients like royalty, but your Google Maps rating is still at 38 — this could be quietly holding you back.\nwe helped ARMONIA boost their visibility and conversions big time — and i believe we can do the same for you.\nlet’s jump on a quick 30-min zoom call and see what’s possible.\nsee you soon,\n abdou”\n✅ Why This Works\nUses both public review and website-specific info\nFeels human, not spammy\nShows respect by doing the homework\nBuilds trust fast\n📌 Pro Tip: If you're doing cold outreach, personalize twice — once from Google reviews, once from the website. The results are night and day.\n💬 Want help writing your first 5 personalized outreach messages using scraping? Let’s connect.",
+            "articlePostedDate": "1d",
+            "totalLikes": "2"
+          },
+          {
+            "text": "🎉 It’s tradition: WebExpo doesn’t really start until the Apify warm-up party kicks off.\n\nJoin us the night before the conference for an open bar, fresh pizza, games, and sunset views over Prague Castle - right from our Lucerna loft.\n\n🗓️ May 27, from 8 PM\n📍 Apify HQ, Lucerna\n🎟️ Just show your badge at the door\n\nAnd psst… if you haven’t got your WebExpo ticket yet, here’s a treat:\nUse code APIFY25 for 15% off 🎫\n\nOh, and if you bump into some of our Apifiers during the event - come say hi 👋",
+            "articlePostedDate": "1d",
+            "totalLikes": "4"
+          },
+          {
+            "text": "Use Apify Scraper for AI Crawling as a native module on Make! 🤖🟣\n\nExtract clean website content in a format optimized for AI models, vector databases, or RAG pipelines.\n\nHere’s how it works:\n✔️ Choose the Standard module for speed and ease of use, or go Advanced for full control or complex scraping tasks\n✔️ Get Markdown-formatted results ready for LLMs, LangChain, or vector DBs\n✔️ Schedule, automate, and scale content extraction with no code needed\n\nSelect a module → run it in Make → power up your AI workflows.",
+            "articlePostedDate": "1d",
+            "totalLikes": "9"
+          },
+          {
+            "text": "Copy-pasting contacts into lead lists one by one? 🧑💻\n\nIn one week (May 29, 10 am EST), we’re running a free webinar showing you how to:\n\n✅ Automate lead gen with Apify Google Maps Scraper\n✅ Track local competition\n✅ Build contact lists in minutes\n\nRegister → https://apify.it/45dScmv🗺️ Still searching Google Maps manually for leads or checking competitors one by one?\n\nThere’s a better way.\n\nJoin our free webinar on May 29, 10 am EST, and learn how to:\n✅ Automate lead generation with Apify Google Maps Scraper\n✅ Build targeted contact lists\n✅ Track and analyze competitor locations & reviews\n\nLed by Karin Pribylová, Lukáš Křivka, and Ondrej Klinovský.\n\nRegister here → https://apify.it/45dScmv",
+            "articlePostedDate": "1d\n  \n                \n                  \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1w\n  \n                    \n                    \n                      Edited",
+            "totalLikes": ""
+          },
+          {
+            "text": "In today’s competitive world, staying ahead of your competitors is no longer a luxury—it’s a necessity.\n\nOne of our clients, who owns a successful chain of restaurants, came to us with a challenge:\n👉 “I need a way to monitor my 4 main competitors' social media activity and online reviews, without doing it manually.”\n\n🎯 Solution? built a powerful automation system – the “Competitor Social Media Analyzer.”\n\nHere’s how it works (and it only required 4 tools):\n\n✅ Make – The backbone of the automation; connects all systems seamlessly\n\n✅ Apify – Scrapes data from Instagram, TikTok, and Google Reviews\n\n✅ CRM – Stores and organizes all collected competitor data for easy access\n\n✅ OpenAI – Analyzes competitor trends/engagement, compares with our brand’s data, and auto-generates a detailed email report with:\n\n> What our competitors are doing\n> Their daily engagement performance\n> Their top-performing content\n> How customers are reacting to their updates\n> Actionable insights to help us improve\n\n📬 The result? Every day, the client’s team gets a clear, data-driven competitive analysis email—with zero manual work.\n\n✨ From competitor moves to marketing improvements, all in one place. And yes—this tracks engagement daily.\n\n🔥 Exclusive Offer\nIn collaboration with Apify, They're offering an exclusive 20% discount on all Apify plans—just for my network.\n\n🔒 Limited to the first 50 people only. Don’t miss it—Comment “Apify” to claim your discount.🎟 \n\nFollow for more incredible AI automation solutions. 🤖",
+            "articlePostedDate": "2d",
+            "totalLikes": "16"
+          },
+          {
+            "text": "Automated Google Maps Lead Scraper with n8n & Apify.\n\nI built a no-code automation that scrapes business leads (e.g., names, contacts, ratings) from Google Maps using Apify’s API integration. The workflow runs on n8n, automatically filtering and organizing data into a Google Sheet for easy analysis. Saved a client 10 hours/week on manual research and boosted lead generation by 30%. Perfect for marketing teams or small businesses targeting local customers! DM me to set this or a custom workflow to fit your needs up for you.\nTools Used: \n• Apify (data scraping)\n• n8n (workflow automation)\n• Google Maps (data source)\n• Google Sheets (data storage).\n\nLoom Demo:\nhttps://lnkd.in/dr53ybgd",
+            "articlePostedDate": "2d",
+            "totalLikes": "3"
+          },
+          {
+            "text": "Proud to be part of this year’s #Sifted100. Huge thanks to Sifted for spotlighting Apify among the fastest-growing B2B SaaS startups in DACH & CEE! 🚀The Sifted 100 DACH & CEE Leaderboard spotlights 100 of the region’s fastest-growing startups in 2025. 🌟\n\nThe innovation scope is vast, including startups tackling drug discovery, carbon accounting, robotics, digital payments, cybersecurity and supply chains.\n\nHere’s what stood out:\n➡️ A full third of the cohort are B2B SaaS companies\n➡️ Fintech is the second most dominant category (31 companies)\n➡️ 27 companies are profitable, among which, 11 are fintechs\n➡️ Recruitment site FRATCH is the leanest by employee count (7 employees).\n\nSee which companies are leading the charge — download the report 👉 https://lnkd.in/eryfdepv\n\n#SiftedLeaderboards #Sifted100",
+            "articlePostedDate": "2d\n  \n                \n                  \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      4d",
+            "totalLikes": "3"
+          },
+          {
+            "text": "🏆 Scraped our way onto the Sifted 100!\n\nApify is officially one of the fastest-growing startups in DACH & CEE in 2025, landing at #92 on the Sifted 100 leaderboard.\n\nShoutout to every developer who made it possible.\n\nFull leaderboard in the comments. #Sifted100",
+            "articlePostedDate": "2d\n  \n                    \n                    \n                      Edited",
+            "totalLikes": "11"
+          }
+        ],
+        "similar_companies": [
+          {
+            "link": "https://cz.linkedin.com/company/itsmakehq?trk=similar-pages",
+            "name": "Make",
+            "summary": "Software Development",
+            "location": "Prague, Praha 8"
+          },
+          {
+            "link": "https://www.linkedin.com/company/grow-with-clay?trk=similar-pages",
+            "name": "Clay",
+            "summary": "Software Development",
+            "location": "New York, NY"
+          },
+          {
+            "link": "https://www.linkedin.com/company/serperapi?trk=similar-pages",
+            "name": "Serper",
+            "summary": "Information Services",
+            "location": ""
+          },
+          {
+            "link": "https://www.linkedin.com/company/instantlyapp?trk=similar-pages",
+            "name": "Instantly.ai",
+            "summary": "Software Development",
+            "location": "Sheridan, WY"
+          },
+          {
+            "link": "https://uk.linkedin.com/company/zenrows?trk=similar-pages",
+            "name": "ZenRows",
+            "summary": "Software Development",
+            "location": ""
+          },
+          {
+            "link": "https://au.linkedin.com/company/smartlead-ai?trk=similar-pages",
+            "name": "Smartlead",
+            "summary": "Software Development",
+            "location": "Sydney, Nsw"
+          },
+          {
+            "link": "https://mk.linkedin.com/company/heyreachio?trk=similar-pages",
+            "name": "HeyReach.io",
+            "summary": "Software Development",
+            "location": "Skopje, North Macedonia"
+          },
+          {
+            "link": "https://dk.linkedin.com/company/ocean.io?trk=similar-pages",
+            "name": "Ocean.io",
+            "summary": "Software Development",
+            "location": "San Francisco, California"
+          },
+          {
+            "link": "https://uk.linkedin.com/company/trigify?trk=similar-pages",
+            "name": "Trigify.io",
+            "summary": "Software Development",
+            "location": ""
+          },
+          {
+            "link": "https://www.linkedin.com/company/leadmagichq?trk=similar-pages",
+            "name": "LeadMagic",
+            "summary": "Internet Publishing",
+            "location": "Boston, Massachusetts"
+          }
+        ],
+        "affiliated_companies": [],
+        "inputURL": "https://www.linkedin.com/company/apifytech",
+        "follower_count_num": 12736,
+        "status": "success"
+      },
+      {
+        "company_name": "OpenAI",
+        "universal_name_id": "openai",
+        "logo_image_url": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_200_200/B56ZT8EYB8HsAI-/0/1739395793272/openai_logo?e=2147483647&v=beta&t=KqQyuosYiiBMx7W0kz3PILrchXDcy1wsCN8EjnQdUJc",
+        "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D563DAQEiLbFUDLFr1g/image-scale_191_1128/image-scale_191_1128/0/1737585072384/openai_cover?e=2147483647&v=beta&t=H0DKZkbTXEncXSHIu5Qu7XOmiONGtYvbt4C0UmGdAqg",
+        "linkedin_internal_id": "",
+        "industry": "Research Services",
+        "location": "San Francisco, CA",
+        "follower_count": "7,041,740",
+        "tagline": "Creating safe AGI that benefits all of humanity.",
+        "company_size_on_linkedin": 5145,
+        "about": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+        "website": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fopenai%2Ecom%2F&urlhash=ILNa&trk=about_website",
+        "industries": "",
+        "company_size": "201-500 employees",
+        "headquarters": "San Francisco, CA",
+        "type": "Partnership",
+        "founded": "2015",
+        "specialties": "",
+        "locations": [
+          {
+            "is_hq": true,
+            "office_address_line_1": "San Francisco, CA 94110, US",
+            "office_address_line_2": "",
+            "office_location_link": "https://www.bing.com/maps?where=San+Francisco+94110+CA+US&trk=org-locations_url"
+          }
+        ],
+        "employees": [
+          {
+            "employee_photo": "https://media.licdn.com/dms/image/v2/C5603AQHdSeeSY2IXew/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1536090046335?e=2147483647&v=beta&t=IK_FckM4u7cINHmbWykEpwSmw6HJqGDGHp7tiq-LTRM",
+            "employee_name": "Fred von Lohmann",
+            "employee_position": "",
+            "employee_profile_url": "https://www.linkedin.com/in/fred-von-lohmann-06b2?trk=org-employees"
+          },
+          {
+            "employee_photo": "https://media.licdn.com/dms/image/v2/D5603AQEqVALOLT1EAA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1671961325073?e=2147483647&v=beta&t=u_Va7m6aMHDd0A6603vv0_mADPiosqoTpxZJXp3e128",
+            "employee_name": "Dazza Greenwood",
+            "employee_position": "",
+            "employee_profile_url": "https://www.linkedin.com/in/dazzagreenwood?trk=org-employees"
+          },
+          {
+            "employee_photo": "https://media.licdn.com/dms/image/v2/D5603AQFd5VT9jKd2Zg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684187715504?e=2147483647&v=beta&t=4jzL3G6dD53ffJrP4G8yOFKf_V2yCvXh44y5BbPOZq4",
+            "employee_name": "Matt Reilly",
+            "employee_position": "GTM @ OpenAI",
+            "employee_profile_url": "https://www.linkedin.com/in/coffeeforclosers?trk=org-employees"
+          },
+          {
+            "employee_photo": "https://media.licdn.com/dms/image/v2/D4E03AQHcto8SczfvNg/profile-displayphoto-shrink_100_100/B4EZO4SwKBHEAU-/0/1733963745061?e=2147483647&v=beta&t=vs8UcKBph60Dj6ySFdgi3clWKl2GE3qvxgXS8_MK_FM",
+            "employee_name": "Mark Ritzmann",
+            "employee_position": "",
+            "employee_profile_url": "https://www.linkedin.com/in/mark-ritzmann-66413?trk=org-employees"
+          }
+        ],
+        "updates": [
+          {
+            "text": "Codex Changelog #1\nWhat a great week to be a developer! Thanks everyone for the feedback—here’s what we improved this week. Lots more coming.\n\n- [Shown in video] Reworked environment page to make it easier to set up code execution.\n\n- Added a button to retry failed tasks.\n- Added indicators to show that the agent runs without network access after setup.\n- Added options to copy git patches after pushing a PR.\n- Added support for unicode branch names.\n- Fixed a bug where secrets were not piped to the setup script.\n- Fixed creating branches when there’s a branch name conflict.\n- Fixed rendering diffs with multi-character emojis.\n- Improved error messages when starting tasks, running setup scripts, pushing PRs, or when disconnected from GitHub, to be more specific and indicate how to resolve the error.\n- Improved onboarding for teams.\n- Polished how new tasks look while loading.\n- Polished the followup composer.\n- Reduced GitHub disconnects by 90%.\n- Reduced PR creation latency by 35%.\n- Reduced task completion latency by 20%.\n- Reduced tool call latency by 50%.\n- Started setting page titles to task titles so Codex tabs are easier to tell apart.\n- Tweaked the system prompt so that agent knows it’s working without network, and can suggest that the user set up dependencies.\n- Updated the docs.\n\nTracking this all in the Codex Changelog: https://lnkd.in/e2-7naRj",
+            "articlePostedDate": "1d",
+            "totalLikes": "161"
+          },
+          {
+            "text": "",
+            "articlePostedDate": "",
+            "totalLikes": ""
+          },
+          {
+            "text": "Let ChatGPT handle your chaos.\n\nPrompt: “I want you to act as my personal assistant and help me organize my week. My main goals this week are [your goals]. I’m only free [time] on weekdays and [time] on weekends. Here’s everything I need to do: [name tasks]. Can you prioritize these tasks based on urgency and importance, and suggest time blocks throughout my week to get everything done without burning out?”\n\n🎥: Angelica Georges",
+            "articlePostedDate": "6d",
+            "totalLikes": "310"
+          },
+          {
+            "text": "💥 Today we're launching Codex: a software agent that operates in the cloud and can do many tasks in parallel. \n\nIn the future most code will be written by AI; society will be accelerated because of it. This is a research preview, but we're very excited to see what you build.\n\nI used to be a software engineer, but had never checked in code at OpenAI—until Codex. I checked in two bug fixes earlier this week, written by Codex while I did other work.\n\nCodex will roll out to Pro, Enterprise and Teams users over the next few days, and more broadly in the coming weeks.\n\nIt's a new way of building software, and it should allow far more people to build than ever before 🙌\n\nMore info at https://lnkd.in/gnB3qjt2",
+            "articlePostedDate": "1w",
+            "totalLikes": "4,618"
+          },
+          {
+            "text": "Are you smarter than ChatGPT? Let’s find out!\n\n🎥: Chris Buchalo",
+            "articlePostedDate": "1w",
+            "totalLikes": "536"
+          },
+          {
+            "text": "Got a genius way you’re using ChatGPT? We wanna hear it.👇\n\n🎥: Angelica Georges",
+            "articlePostedDate": "1w",
+            "totalLikes": "288"
+          },
+          {
+            "text": "Evaluations are essential to understanding how models perform in health settings. \n\nHealthBench is a new evaluation benchmark, developed with input from 250+ physicians from around the world, now available in our GitHub repository.\n\nhttps://lnkd.in/gmqZ9P_K",
+            "articlePostedDate": "1w",
+            "totalLikes": "1,674"
+          },
+          {
+            "text": "Here are the top 20 study chats from students around the world. Download this 1-pager to try them ⬇️\n\nThanks to the students who shared and tested these chats ✨\nBilan Cali, Carolina Hoyos, Clare Antonow, Cole Lee, Connor Raney, Daisy Sheng, Delphine Tai-Beauchamp, Emilin Mathew, Emily Hallman, Emily Hsu, Ethan Miller, Grace DeBoer, Grant Gutzwiller, Hamidah Oderinwale, Harper Carroll, Harsha Ravindran, Isaac Seiler, Jane Drinkwater, Karina Kejriwal, Kayleigh Koekemoer, Keith Curry, Liam Blackshaw-Brown, Madison Diefenbach, Malindu Praboda, Maria Angel Ferrero, Meghna Goli, Mia Purse, Michael Loff, Michael Wang, Monica Adams, Nirvana, Nolan W., Parker Jones, Parv Jain, Tuhin Patra, Valentin Belanov, and Yashika Sharma!",
+            "articlePostedDate": "2w",
+            "totalLikes": "2,657"
+          },
+          {
+            "text": "I often hear that users find ChatGPT’s deep research agent so valuable that they want it to connect to their internal sources, in addition to the web.\n\nToday we’re introducing our first connector in beta for deep research: GitHub. \n\nConnect your repos, ask a question, and ChatGPT will analyze your actual codebase and engineering docs—returning a comprehensive, cited report in minutes.\n\nChatGPT respects your organization’s existing settings, so users only see GitHub content they’re already allowed to view and repos that have been explicitly shared with ChatGPT. \n\nWe’re rolling out the GitHub connector to ChatGPT Plus, Pro, and Team users over the next couple of days—with Enterprise coming soon.\n\nQuestion to our power users: what connector should we build next?",
+            "articlePostedDate": "2w",
+            "totalLikes": "4,717"
+          },
+          {
+            "text": "The San Antonio Spurs are using ChatGPT Enterprise to scale their culture — on and off the court.\n\nRooted in humility, teamwork, and purpose, they’ve built a people-first model for enterprise AI that’s driving real results:\n\n• AI fluency jumped from 14% → 85% in under 6 months\n• 94% of staff report greater confidence with AI tools\n• 1,800+ hours saved every month\n• Staff-built GPTs now support partnerships, marketing, analytics, ticketing, and people operations\n\nFrom fan sentiment analysis to counterfeit detection, the Spurs are showing how organizations can lead with values — and build with AI.",
+            "articlePostedDate": "2w",
+            "totalLikes": "1,237"
+          }
+        ],
+        "similar_companies": [
+          {
+            "link": "https://www.linkedin.com/company/genai-works?trk=similar-pages",
+            "name": "Generative AI",
+            "summary": "Technology, Information and Internet",
+            "location": ""
+          },
+          {
+            "link": "https://www.linkedin.com/company/anthropicresearch?trk=similar-pages",
+            "name": "Anthropic",
+            "summary": "Research Services",
+            "location": ""
+          },
+          {
+            "link": "https://www.linkedin.com/company/google?trk=similar-pages",
+            "name": "Google",
+            "summary": "Software Development",
+            "location": "Mountain View, CA"
+          },
+          {
+            "link": "https://www.linkedin.com/company/perplexity-ai?trk=similar-pages",
+            "name": "Perplexity",
+            "summary": "Software Development",
+            "location": "San Francisco, California"
+          },
+          {
+            "link": "https://www.linkedin.com/company/microsoft?trk=similar-pages",
+            "name": "Microsoft",
+            "summary": "Software Development",
+            "location": "Redmond, Washington"
+          },
+          {
+            "link": "https://www.linkedin.com/company/nvidia?trk=similar-pages",
+            "name": "NVIDIA",
+            "summary": "Computer Hardware Manufacturing",
+            "location": "Santa Clara, CA"
+          },
+          {
+            "link": "https://www.linkedin.com/company/meta?trk=similar-pages",
+            "name": "Meta",
+            "summary": "Software Development",
+            "location": "Menlo Park, CA"
+          },
+          {
+            "link": "https://uk.linkedin.com/company/googledeepmind?trk=similar-pages",
+            "name": "Google DeepMind",
+            "summary": "Research Services",
+            "location": "London, London"
+          },
+          {
+            "link": "https://www.linkedin.com/company/amazon?trk=similar-pages",
+            "name": "Amazon",
+            "summary": "Software Development",
+            "location": "Seattle, WA"
+          },
+          {
+            "link": "https://www.linkedin.com/company/apple?trk=similar-pages",
+            "name": "Apple",
+            "summary": "Computers and Electronics Manufacturing",
+            "location": "Cupertino, California"
+          }
+        ],
+        "affiliated_companies": [
+          {
+            "link": "https://www.linkedin.com/showcase/chatgpt/?trk=affiliated-pages",
+            "name": "ChatGPT",
+            "industry": "Technology, Information and Internet",
+            "location": ""
+          },
+          {
+            "link": "https://www.linkedin.com/showcase/chatgpt-for-education/?trk=affiliated-pages",
+            "name": "ChatGPT for Education",
+            "industry": "Technology, Information and Internet",
+            "location": ""
+          },
+          {
+            "link": "https://www.linkedin.com/showcase/openai-for-business/?trk=affiliated-pages",
+            "name": "OpenAI for Business",
+            "industry": "Technology, Information and Internet",
+            "location": "San Francisco, California"
+          }
+        ],
+        "inputURL": "https://www.linkedin.com/company/openai",
+        "follower_count_num": null,
+        "status": "success"
+      }
+    ],
+    "items_count": 2,
+    "duration_secs": 4.998,
+    "cost": "0.000",
+    "error_message": null,
+    "success": true,
+    "metadata": {
+      "build_id": "mF9Gh4iuNlIdiSiDs",
+      "compute_units": null,
+      "usage_bytes": null,
+      "platform": null
+    }
+  }
+}
